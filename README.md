@@ -6,7 +6,7 @@
 [2. Description of Code Files](#2.-description-of-code-files)
 <p>
 
-[3. Steps to Import Code into Google Apps Script](#steps-to-import-code-into-google-apps-script)
+[3. Accessing the Add-in Script](#3.-accessing-the-add-in)
 <p>
 
 [4. Steps to Run the Code and Obtain the Add-on in Google Docs](#4.-steps-to-run-the-code-and-obtain-the-add-on-in-google-docs)
@@ -40,7 +40,15 @@ Below is a description of each of the main code files this project:
 * **Sidebar.html:** This HTML file contains the code to build the user interface of the add-on's sidebar.
 
 
-## 3. Steps to Import Code into Google Apps Script
+## 3. Accessing the Add-in
+
+There are 2 ways to access the Add-inin
+
+### 3.1. Accessing the Add-in via Shared Google Docs Link
+
+If you don't want to import the code by yourself, you can access it directly by the ([Google Docs](https://docs.google.com/document/d/1D8E8rEee0g8kEYusQZOnfof2eMMcZvDNk7vquwfkreQ/edit?usp=sharing)) that I already have import the add-on and go to part **4. Steps to Run the Code and Obtain the Add-in in Google Docs** 
+
+### 3.2. Steps to Import Code into Google Apps Script
 
 Follow these steps to import your code into the App Script editor:
 
@@ -65,8 +73,8 @@ After importing the code, you need to deploy it as an add-on to use it in Google
 
 1.  **Refresh Google Docs:** After saving the code in the script editor, return to your Google Docs document and refresh the page (F5 or Cmd+R).
 2.  **Check for the Add-on:**
-    * After refreshing, an **Add-ons** menu will appear in the Google Docs menu bar (usually located between "Tools" and "Help").
-    * Hover over the **Add-ons** menu. You should see the name of your add-on project (e.g., "AI Translation Plugin").
+    * After refreshing, an **Extensions** menu will appear in the Google Docs menu bar (usually located between "Tools" and "Help").
+    * Hover over the **Extensions** menu. You should see the name of your add-on project (e.g., "AI Translation Plugin").
     * Click on the add-on name. If this is the first time you are running this add-on, Google might ask you for authorization.
 3.  **Authorize the Add-on (If Required):**
     * An authorization dialog will appear. Click **Continue**.
