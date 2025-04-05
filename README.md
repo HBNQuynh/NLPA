@@ -33,7 +33,7 @@ Notably, this plugin leverages the power of Google's Gemini model, requiring use
 
 Below is a description of each of the main code files this project:
 
-* **appscript.json:** This is the manifest file for Google Apps Script project. It contains important configuration information about the add-on.
+* **appsscript.json:** This is the manifest file for Google Apps Script project. It contains important configuration information about the add-on.
 
 * **Code.gs:** This file contains the main source code for the plugin, written in Google Apps Script language.
 
