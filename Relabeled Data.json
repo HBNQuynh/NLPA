@@ -1,0 +1,1982 @@
+[
+  {
+    "subject": "Meeting on the Project Update",
+    "sender": "john.doe@company.com",
+    "receiver": "team@company.com",
+    "datetime": "2025-03-27 09:00:00",
+    "body": "Dear team, we have a meeting scheduled for tomorrow at 10 AM to discuss the updates on the ongoing project. Please come prepared with your progress reports. Regards, John",
+    "category": "Work",
+    "priority": 2.5,
+    "summarized_content": "Meeting scheduled for tomorrow at 10 AM to discuss project updates."
+  },
+  {
+    "subject": "Invoice for March 2025 Payment",
+    "sender": "accounting@company.com",
+    "receiver": "client@company.com",
+    "datetime": "2025-03-25 14:30:00",
+    "body": "Attached is the invoice for the payment due on March 2025. Please make sure to settle it before the due date to avoid penalties. Best regards, Accounting Department",
+    "category": "Work",
+    "priority": 4.0,
+    "summarized_content": "Invoice for March 2025 payment due, with a reminder to settle before the due date."
+  },
+  {
+    "subject": "New Job Opportunity: Senior Developer",
+    "sender": "hr@company.com",
+    "receiver": "candidate@company.com",
+    "datetime": "2025-03-20 11:15:00",
+    "body": "We are pleased to inform you that your application for the Senior Developer position has been reviewed. Please schedule an interview at your earliest convenience. Best regards, HR Team",
+    "category": "Work",
+    "priority": 5.5,
+    "summarized_content": "Invitation for an interview for Senior Developer position."
+  },
+  {
+    "subject": "Reminder: Project Deadline Approaching",
+    "sender": "mark.smith@company.com",
+    "receiver": "team@company.com",
+    "datetime": "2025-03-26 08:30:00",
+    "body": "This is a reminder that the deadline for the project submission is in two days. Please ensure everything is finalized by then. Best, Mark",
+    "category": "Work",
+    "priority": 2.2,
+    "summarized_content": "Reminder of the approaching project deadline in two days."
+  },
+  {
+    "subject": "Quarterly Financial Review Meeting",
+    "sender": "ceo@company.com",
+    "receiver": "board@company.com",
+    "datetime": "2025-03-25 13:00:00",
+    "body": "The quarterly financial review meeting will be held on April 10th. Please prepare your financial reports and projections. Regards, CEO",
+    "category": "Work",
+    "priority": 6.5,
+    "summarized_content": "Quarterly financial review meeting scheduled for April 10th."
+  },
+  {
+    "subject": "Fraudulent Activity Detected on Your Account",
+    "sender": "security@company.com",
+    "receiver": "user@company.com",
+    "datetime": "2025-03-27 16:00:00",
+    "body": "We have detected unusual activity on your account. Please verify your recent transactions to prevent further issues. Best, Security Team",
+    "category": "Fraud",
+    "priority": 1.0,
+    "summarized_content": "Alert about fraudulent activity on your account."
+  },
+  {
+    "subject": "Conference Registration Confirmation",
+    "sender": "events@company.com",
+    "receiver": "attendee@company.com",
+    "datetime": "2025-03-23 15:30:00",
+    "body": "Thank you for registering for the upcoming tech conference. Your registration has been confirmed, and we look forward to your participation. Regards, Events Team",
+    "category": "Work",
+    "priority": 7.0,
+    "summarized_content": "Confirmation of conference registration."
+  },
+  {
+    "subject": "Discount Offer on Our Products",
+    "sender": "sales@company.com",
+    "receiver": "customer@company.com",
+    "datetime": "2025-03-22 14:00:00",
+    "body": "Enjoy a 20% discount on all our products this week. Use the code SPRINGSALE to avail the offer. Best regards, Sales Team",
+    "category": "Commercial",
+    "priority": 9.2,
+    "summarized_content": "20% discount offer on all products with code SPRINGSALE."
+  },
+  {
+    "subject": "Meeting Notes and Action Items",
+    "sender": "lisa.white@company.com",
+    "receiver": "team@company.com",
+    "datetime": "2025-03-25 10:00:00",
+    "body": "Attached are the meeting notes and the action items assigned during the last meeting. Please review them and complete your tasks by the end of this week. Regards, Lisa",
+    "category": "Work",
+    "priority": 4.5,
+    "summarized_content": "Meeting notes and action items from the last meeting."
+  },
+  {
+    "subject": "Document Submission for Review",
+    "sender": "bob.jones@company.com",
+    "receiver": "supervisor@company.com",
+    "datetime": "2025-03-24 12:30:00",
+    "body": "Please find attached the document that needs your review. Kindly provide your feedback by Friday. Regards, Bob",
+    "category": "Work",
+    "priority": 3.8,
+    "summarized_content": "Document submitted for review, feedback needed by Friday."
+  },
+  {
+    "subject": "Job Application Status Update",
+    "sender": "hr@company.com",
+    "receiver": "candidate@company.com",
+    "datetime": "2025-03-22 16:00:00",
+    "body": "We regret to inform you that your application for the Junior Developer position has not been successful. We appreciate your interest and encourage you to apply again in the future. Best regards, HR",
+    "category": "Work",
+    "priority": 9.0,
+    "summarized_content": "Update on job application status: not successful."
+  },
+  {
+    "subject": "Action Required: Tax Filing Reminder",
+    "sender": "tax@company.com",
+    "receiver": "employee@company.com",
+    "datetime": "2025-03-24 11:00:00",
+    "body": "This is a reminder to file your taxes by the end of the month. Please ensure all documents are submitted to avoid penalties. Regards, Tax Department",
+    "category": "Work",
+    "priority": 2.8,
+    "summarized_content": "Reminder to file taxes by the end of the month."
+  },
+  {
+    "subject": "Vacation Request Approval",
+    "sender": "manager@company.com",
+    "receiver": "employee@company.com",
+    "datetime": "2025-03-23 09:30:00",
+    "body": "Your vacation request for the dates July 5th to July 12th has been approved. Have a great time off! Regards, Manager",
+    "category": "Work",
+    "priority": 8.0,
+    "summarized_content": "Vacation request approved for July 5th to July 12th."
+  },
+  {
+    "subject": "System Maintenance Notice",
+    "sender": "it@company.com",
+    "receiver": "team@company.com",
+    "datetime": "2025-03-20 16:00:00",
+    "body": "Please be aware that the system will be undergoing maintenance this Friday from 12 AM to 3 AM. Kindly save your work and log out before the maintenance window. Regards, IT Department",
+    "category": "Work",
+    "priority": 5.0,
+    "summarized_content": "System maintenance scheduled for Friday from 12 AM to 3 AM."
+  },
+  {
+    "subject": "Team Building Event Invitation",
+    "sender": "hr@company.com",
+    "receiver": "team@company.com",
+    "datetime": "2025-03-27 11:30:00",
+    "body": "You are invited to a team-building event scheduled for next week. The event will be a great opportunity for collaboration and bonding. Please confirm your attendance. Best regards, HR Team",
+    "category": "Work",
+    "priority": 7.2,
+    "summarized_content": "Invitation for a team-building event next week."
+  },
+  {
+    "subject": "Request for Project Extension",
+    "sender": "alice.jones@company.com",
+    "receiver": "manager@company.com",
+    "datetime": "2025-03-26 15:00:00",
+    "body": "Dear Manager, I am requesting a two-day extension for the current project deadline due to unforeseen circumstances. I hope this will be acceptable. Regards, Alice",
+    "category": "Work",
+    "priority": 2.8,
+    "summarized_content": "Request for a two-day project deadline extension."
+  },
+  {
+    "subject": "Reminder: Client Meeting Tomorrow",
+    "sender": "mark.smith@company.com",
+    "receiver": "team@company.com",
+    "datetime": "2025-03-27 08:30:00",
+    "body": "This is a reminder about the client meeting scheduled for tomorrow at 10 AM. Please ensure all necessary materials are ready. Best, Mark",
+    "category": "Work",
+    "priority": 2.0,
+    "summarized_content": "Reminder about client meeting tomorrow at 10 AM."
+  },
+  {
+    "subject": "Your Resume Has Been Received",
+    "sender": "hr@company.com",
+    "receiver": "applicant@company.com",
+    "datetime": "2025-03-26 12:00:00",
+    "body": "Thank you for submitting your resume. We will review your application and contact you if we would like to proceed with the next steps. Regards, HR Team",
+    "category": "Work",
+    "priority": 8.0,
+    "summarized_content": "Resume received, will contact if selected for next steps."
+  },
+  {
+    "subject": "Urgent: Verify Your Account Information",
+    "sender": "support@company.com",
+    "receiver": "user@company.com",
+    "datetime": "2025-03-26 18:30:00",
+    "body": "We have noticed suspicious activity in your account. Please verify your account information immediately to avoid any security issues. Regards, Support Team",
+    "category": "Fraud",
+    "priority": 1.0,
+    "summarized_content": "Urgent account verification needed due to suspicious activity."
+  },
+  {
+    "subject": "Final Reminder: Payment Due",
+    "sender": "billing@company.com",
+    "receiver": "client@company.com",
+    "datetime": "2025-03-26 14:15:00",
+    "body": "This is the final reminder regarding your outstanding payment. Please ensure payment is made by the end of today to avoid late fees. Regards, Billing Department",
+    "category": "Work",
+    "priority": 1.8,
+    "summarized_content": "Final reminder for payment due today."
+  },
+  {
+    "subject": "Job Interview Scheduled",
+    "sender": "hr@company.com",
+    "receiver": "candidate@company.com",
+    "datetime": "2025-03-25 09:30:00",
+    "body": "Your interview for the position of Marketing Manager has been scheduled for April 2nd at 10 AM. We look forward to meeting you. Regards, HR Team",
+    "category": "Work",
+    "priority": 4.2,
+    "summarized_content": "Interview scheduled for Marketing Manager position on April 2nd."
+  },
+  {
+    "subject": "Sales Report for Q1 2025",
+    "sender": "sales@company.com",
+    "receiver": "manager@company.com",
+    "datetime": "2025-03-25 13:00:00",
+    "body": "Please find attached the sales report for Q1 2025. Let me know if you need any further details or explanations. Regards, Sales Team",
+    "category": "Work",
+    "priority": 5.8,
+    "summarized_content": "Attached sales report for Q1 2025."
+  },
+  {
+    "subject": "Project Approval Request",
+    "sender": "jane.doe@company.com",
+    "receiver": "manager@company.com",
+    "datetime": "2025-03-25 14:45:00",
+    "body": "I am seeking approval for the new project plan. Please review the attached proposal and let me know if you approve. Regards, Jane",
+    "category": "Work",
+    "priority": 4.8,
+    "summarized_content": "Request for project approval with attached proposal."
+  },
+  {
+    "subject": "Office Closure for Holidays",
+    "sender": "hr@company.com",
+    "receiver": "all@company.com",
+    "datetime": "2025-03-24 09:00:00",
+    "body": "The office will be closed from April 5th to April 10th for the holidays. Please plan your work accordingly. Regards, HR Department",
+    "category": "Work",
+    "priority": 7.3,
+    "summarized_content": "Office closure from April 5th to 10th for holidays."
+  },
+  {
+    "subject": "Invoice Reminder for April 2025",
+    "sender": "accounting@company.com",
+    "receiver": "client@company.com",
+    "datetime": "2025-03-24 10:00:00",
+    "body": "This is a reminder that your payment for the invoice due in April 2025 is now approaching. Please ensure payment by the due date. Regards, Accounting Department",
+    "category": "Work",
+    "priority": 3.6,
+    "summarized_content": "Reminder for upcoming invoice payment due in April 2025."
+  },
+  {
+    "subject": "Employee of the Month Announcement",
+    "sender": "hr@company.com",
+    "receiver": "all@company.com",
+    "datetime": "2025-03-23 08:00:00",
+    "body": "Congratulations to Sarah Lee for being recognized as the Employee of the Month! Sarah’s outstanding contributions are greatly appreciated. Regards, HR Department",
+    "category": "Work",
+    "priority": 9.2,
+    "summarized_content": "Employee of the Month: Sarah Lee, for outstanding contributions."
+  },
+  {
+    "subject": "Upcoming Maintenance for Cloud Services",
+    "sender": "it@company.com",
+    "receiver": "all@company.com",
+    "datetime": "2025-03-22 14:30:00",
+    "body": "Please be advised that cloud services will undergo scheduled maintenance on March 29th between 2 AM and 4 AM. Plan accordingly. Regards, IT Department",
+    "category": "Work",
+    "priority": 4.5,
+    "summarized_content": "Scheduled maintenance for cloud services on March 29th."
+  },
+  {
+    "subject": "Invoice for May 2025 Services",
+    "sender": "accounting@company.com",
+    "receiver": "client@company.com",
+    "datetime": "2025-03-21 09:45:00",
+    "body": "The invoice for services provided in May 2025 is attached. Kindly ensure payment is made by the end of the month. Regards, Accounting Department",
+    "category": "Work",
+    "priority": 3.9,
+    "summarized_content": "Invoice for May 2025 services, payment due by end of month."
+  },
+  {
+    "subject": "Team Meeting on New Project",
+    "sender": "jane.doe@company.com",
+    "receiver": "team@company.com",
+    "datetime": "2025-03-20 14:00:00",
+    "body": "Please join us for a meeting tomorrow to discuss a new project initiative. Looking forward to your ideas. Regards, Jane",
+    "category": "Work",
+    "priority": 2.5,
+    "summarized_content": "Meeting scheduled to discuss new project initiative."
+  },
+  {
+    "subject": "Upcoming Holiday Schedule",
+    "sender": "hr@company.com",
+    "receiver": "all@company.com",
+    "datetime": "2025-03-19 10:00:00",
+    "body": "As a reminder, the office will be closed for the holidays from April 1st to April 5th. Please plan accordingly. Regards, HR Team",
+    "category": "Work",
+    "priority": 7.0,
+    "summarized_content": "Office closure during holidays from April 1st to 5th."
+  },
+  {
+    "subject": "Contract Renewal Reminder",
+    "sender": "legal@company.com",
+    "receiver": "client@company.com",
+    "datetime": "2025-03-18 16:00:00",
+    "body": "This is a reminder that your contract with us will expire soon. Please review the terms and initiate the renewal process. Regards, Legal Team",
+    "category": "Work",
+    "priority": 3.4,
+    "summarized_content": "Reminder for contract renewal, terms to review."
+  },
+  {
+    "subject": "Job Offer for Marketing Executive Position",
+    "sender": "hr@company.com",
+    "receiver": "candidate@company.com",
+    "datetime": "2025-03-17 09:15:00",
+    "body": "We are pleased to offer you the Marketing Executive position. Please review the attached offer letter and confirm your acceptance. Regards, HR Team",
+    "category": "Work",
+    "priority": 2.2,
+    "summarized_content": "Job offer for Marketing Executive position, please confirm acceptance."
+  },
+  {
+    "subject": "Important: System Outage Notification",
+    "sender": "it@company.com",
+    "receiver": "all@company.com",
+    "datetime": "2025-03-17 13:45:00",
+    "body": "We will be conducting emergency maintenance on the system from 5 PM today. Please make sure to save your work. Regards, IT Team",
+    "category": "Work",
+    "priority": 1.0,
+    "summarized_content": "Emergency system maintenance starting at 5 PM today."
+  },
+  {
+    "subject": "Sales Target Review",
+    "sender": "sales@company.com",
+    "receiver": "team@company.com",
+    "datetime": "2025-03-16 15:30:00",
+    "body": "Let's review our sales targets for Q2 2025. Please come prepared with your insights and numbers for discussion. Regards, Sales Manager",
+    "category": "Work",
+    "priority": 5.0,
+    "summarized_content": "Sales target review for Q2 2025, come prepared with insights."
+  },
+  {
+    "subject": "Urgent: Update Your Password",
+    "sender": "support@company.com",
+    "receiver": "user@company.com",
+    "datetime": "2025-03-15 17:00:00",
+    "body": "We have noticed unusual login activity on your account. For your security, please update your password immediately. Regards, Support Team",
+    "category": "Fraud",
+    "priority": 1.0,
+    "summarized_content": "Urgent password update needed due to unusual login activity."
+  },
+  {
+    "subject": "Job Interview Rescheduling Request",
+    "sender": "candidate@company.com",
+    "receiver": "hr@company.com",
+    "datetime": "2025-03-14 11:00:00",
+    "body": "I am unable to attend the interview scheduled for March 15th. Could we please reschedule it for a later date? Regards, Candidate",
+    "category": "Work",
+    "priority": 7.0,
+    "summarized_content": "Request to reschedule the interview originally set for March 15th."
+  },
+  {
+    "subject": "Reminder: Monthly Performance Reports Due",
+    "sender": "manager@company.com",
+    "receiver": "team@company.com",
+    "datetime": "2025-03-14 09:00:00",
+    "body": "This is a reminder that your monthly performance reports are due by the end of the day. Please make sure to submit them. Regards, Manager",
+    "category": "Work",
+    "priority": 3.2,
+    "summarized_content": "Reminder for monthly performance report submission due today."
+  },
+  {
+    "subject": "Workshop Registration Confirmation",
+    "sender": "events@company.com",
+    "receiver": "participant@company.com",
+    "datetime": "2025-03-13 10:30:00",
+    "body": "Thank you for registering for our upcoming workshop. We look forward to your participation. Best regards, Events Team",
+    "category": "Work",
+    "priority": 7.8,
+    "summarized_content": "Confirmation of workshop registration."
+  },
+  {
+    "subject": "Employee Performance Review Scheduled",
+    "sender": "hr@company.com",
+    "receiver": "employee@company.com",
+    "datetime": "2025-03-12 14:00:00",
+    "body": "Your annual performance review has been scheduled for March 30th. Please prepare your self-assessment and gather relevant documents. Regards, HR Team",
+    "category": "Work",
+    "priority": 3.5,
+    "summarized_content": "Performance review scheduled for March 30th."
+  },
+  {
+    "subject": "Re: Meeting on the Project Update",
+    "sender": "john.doe@company.com",
+    "receiver": "team@company.com",
+    "datetime": "2025-03-27 10:00:00",
+    "body": "Dear team, just a quick reminder about the meeting today at 10 AM. Please be prepared with your updates. Regards, John",
+    "category": "Work",
+    "priority": 2.0,
+    "summarized_content": "Reminder for today’s meeting at 10 AM for project updates."
+  },
+  {
+    "subject": "Re: Meeting on the Project Update",
+    "sender": "alice.jones@company.com",
+    "receiver": "john.doe@company.com",
+    "datetime": "2025-03-27 10:05:00",
+    "body": "Hi John, I have completed the project update and will bring the latest figures to the meeting. See you at 10! Regards, Alice",
+    "category": "Work",
+    "priority": 4.2,
+    "summarized_content": "Update complete, Alice will bring figures to the meeting."
+  },
+  {
+    "subject": "Re: Meeting on the Project Update",
+    "sender": "john.doe@company.com",
+    "receiver": "alice.jones@company.com",
+    "datetime": "2025-03-27 10:10:00",
+    "body": "Great, Alice! Looking forward to your update. Please ensure everything is ready. Regards, John",
+    "category": "Work",
+    "priority": 4.5,
+    "summarized_content": "John confirms Alice's update and readiness for the meeting."
+  },
+  {
+    "subject": "Re: Invoice for March 2025 Payment",
+    "sender": "accounting@company.com",
+    "receiver": "client@company.com",
+    "datetime": "2025-03-26 16:00:00",
+    "body": "Dear Client, this is a reminder about the invoice for March 2025. Please ensure it’s paid before the due date. Best regards, Accounting Department",
+    "category": "Work",
+    "priority": 2.8,
+    "summarized_content": "Reminder for March 2025 invoice payment due."
+  },
+  {
+    "subject": "Re: Invoice for March 2025 Payment",
+    "sender": "client@company.com",
+    "receiver": "accounting@company.com",
+    "datetime": "2025-03-26 16:15:00",
+    "body": "Thank you for the reminder. We will process the payment by the end of the day. Regards, Client",
+    "category": "Work",
+    "priority": 6.0,
+    "summarized_content": "Client confirms payment processing by end of the day."
+  },
+  {
+    "subject": "Re: Invoice for March 2025 Payment",
+    "sender": "accounting@company.com",
+    "receiver": "client@company.com",
+    "datetime": "2025-03-26 16:30:00",
+    "body": "Thank you for confirming. Please let us know if you need any further assistance. Best regards, Accounting Department",
+    "category": "Work",
+    "priority": 7.0,
+    "summarized_content": "Accounting confirms receipt and offers further assistance."
+  },
+  {
+    "subject": "Re: Job Application Status Update",
+    "sender": "hr@company.com",
+    "receiver": "candidate@company.com",
+    "datetime": "2025-03-22 16:00:00",
+    "body": "We regret to inform you that your application for the Junior Developer position has not been successful. Thank you for your interest. Regards, HR Team",
+    "category": "Work",
+    "priority": 9.2,
+    "summarized_content": "Unsuccessful job application update from HR."
+  },
+  {
+    "subject": "Re: Job Application Status Update",
+    "sender": "candidate@company.com",
+    "receiver": "hr@company.com",
+    "datetime": "2025-03-22 16:30:00",
+    "body": "Thank you for the update. I appreciate your consideration and would be happy to apply again in the future. Regards, Candidate",
+    "category": "Work",
+    "priority": 7.1,
+    "summarized_content": "Candidate expresses interest in applying again in the future."
+  },
+  {
+    "subject": "Re: Job Application Status Update",
+    "sender": "hr@company.com",
+    "receiver": "candidate@company.com",
+    "datetime": "2025-03-22 17:00:00",
+    "body": "Thank you for your understanding. We will certainly keep your profile in mind for future opportunities. Best regards, HR Team",
+    "category": "Work",
+    "priority": 7.4,
+    "summarized_content": "HR thanks candidate for understanding and offers future opportunities."
+  },
+  {
+    "subject": "Re: Action Required: Tax Filing Reminder",
+    "sender": "tax@company.com",
+    "receiver": "employee@company.com",
+    "datetime": "2025-03-23 12:00:00",
+    "body": "This is a final reminder to file your taxes by the end of the month. Please ensure all forms are submitted on time. Regards, Tax Department",
+    "category": "Work",
+    "priority": 1.9,
+    "summarized_content": "Final reminder for tax filing submission."
+  },
+  {
+    "subject": "Re: Action Required: Tax Filing Reminder",
+    "sender": "employee@company.com",
+    "receiver": "tax@company.com",
+    "datetime": "2025-03-23 12:30:00",
+    "body": "Thank you for the reminder. I will file the taxes by the end of today. Regards, Employee",
+    "category": "Work",
+    "priority": 5.5,
+    "summarized_content": "Employee confirms tax filing by the end of the day."
+  },
+  {
+    "subject": "Re: Action Required: Tax Filing Reminder",
+    "sender": "tax@company.com",
+    "receiver": "employee@company.com",
+    "datetime": "2025-03-23 13:00:00",
+    "body": "Thank you for confirming. Let us know if you encounter any issues. Regards, Tax Department",
+    "category": "Work",
+    "priority": 7.0,
+    "summarized_content": "Tax department confirms and offers assistance."
+  },
+  {
+    "subject": "Re: System Maintenance Notice",
+    "sender": "it@company.com",
+    "receiver": "team@company.com",
+    "datetime": "2025-03-20 16:30:00",
+    "body": "This is a reminder that system maintenance will start at midnight tonight and end at 3 AM. Please save all your work before the maintenance window. Regards, IT Department",
+    "category": "Work",
+    "priority": 3.2,
+    "summarized_content": "Reminder for system maintenance starting at midnight."
+  },
+  {
+    "subject": "Re: System Maintenance Notice",
+    "sender": "team@company.com",
+    "receiver": "it@company.com",
+    "datetime": "2025-03-20 17:00:00",
+    "body": "Thank you for the reminder. I will ensure my work is saved before the maintenance. Regards, Team Member",
+    "category": "Work",
+    "priority": 6.5,
+    "summarized_content": "Team member confirms saving work before maintenance."
+  },
+  {
+    "subject": "Re: System Maintenance Notice",
+    "sender": "it@company.com",
+    "receiver": "team@company.com",
+    "datetime": "2025-03-20 17:30:00",
+    "body": "Thanks for your cooperation! Please reach out if you experience any issues post-maintenance. Regards, IT Team",
+    "category": "Work",
+    "priority": 5.5,
+    "summarized_content": "IT department thanks team for cooperation and offers help post-maintenance."
+  },
+  {
+    "subject": "Re: Meeting on the Project Update",
+    "sender": "john.doe@company.com",
+    "receiver": "team@company.com",
+    "datetime": "2025-03-27 10:00:00",
+    "body": "Dear team, just a quick reminder about the meeting today at 10 AM. We will be discussing the status of the project and reviewing any roadblocks that may have emerged over the past few days. Please ensure that you bring the latest progress reports, including any deliverables that have been completed or are pending. It’s crucial that we resolve any outstanding issues before moving forward. Looking forward to seeing you all there. Regards, John",
+    "category": "Work",
+    "priority": 2.0,
+    "summarized_content": "Reminder for today’s meeting at 10 AM to discuss project updates, including deliverables and issues."
+  },
+  {
+    "subject": "Re: Meeting on the Project Update",
+    "sender": "alice.jones@company.com",
+    "receiver": "john.doe@company.com",
+    "datetime": "2025-03-27 10:05:00",
+    "body": "Hi John, I just wanted to confirm that I have completed the project update as requested. I’ll be bringing the latest performance metrics and figures to the meeting today. We’ve also made some key improvements on the client-facing dashboard that I believe will be important to highlight. I’ll be sure to address any questions regarding these updates during the meeting. See you at 10 AM! Regards, Alice",
+    "category": "Work",
+    "priority": 4.2,
+    "summarized_content": "Alice confirms project update completion and will bring key improvements to the meeting."
+  },
+  {
+    "subject": "Re: Meeting on the Project Update",
+    "sender": "john.doe@company.com",
+    "receiver": "alice.jones@company.com",
+    "datetime": "2025-03-27 10:10:00",
+    "body": "Great, Alice! Thank you for your hard work on the update. I’m looking forward to seeing the figures you’ve gathered, especially the improvements on the client-facing dashboard. It’s important that we showcase these advancements, so please highlight them in your presentation. If there are any other points you think we should address in the meeting, feel free to let me know beforehand. See you soon. Regards, John",
+    "category": "Work",
+    "priority": 4.5,
+    "summarized_content": "John appreciates Alice’s update and requests a focus on client-facing dashboard improvements during the meeting."
+  },
+  {
+    "subject": "Re: Invoice for March 2025 Payment",
+    "sender": "accounting@company.com",
+    "receiver": "client@company.com",
+    "datetime": "2025-03-26 16:00:00",
+    "body": "Dear Client, this is a friendly reminder that your invoice for March 2025 services is due soon. As per the terms outlined in our agreement, payment is expected by the end of the month. To avoid any delays or penalties, we kindly ask that you process the payment as soon as possible. If you have any questions or need further clarification regarding the invoice details, please do not hesitate to contact us. We appreciate your prompt attention to this matter. Best regards, Accounting Department",
+    "category": "Work",
+    "priority": 2.8,
+    "summarized_content": "Reminder for the March 2025 invoice payment, with a request for timely settlement."
+  },
+  {
+    "subject": "Re: Invoice for March 2025 Payment",
+    "sender": "client@company.com",
+    "receiver": "accounting@company.com",
+    "datetime": "2025-03-26 16:15:00",
+    "body": "Thank you for your reminder. We appreciate the clarity in the invoice and will ensure that the payment is processed by the end of today. I will personally confirm once the transaction has been completed. Please note, we are currently reviewing the additional charges applied for this period and will address any concerns should they arise. Regards, Client",
+    "category": "Work",
+    "priority": 6.0,
+    "summarized_content": "Client confirms payment processing by the end of the day and mentions reviewing additional charges."
+  },
+  {
+    "subject": "Re: Invoice for March 2025 Payment",
+    "sender": "accounting@company.com",
+    "receiver": "client@company.com",
+    "datetime": "2025-03-26 16:30:00",
+    "body": "Thank you for confirming. We appreciate your prompt action in processing the payment. Regarding the additional charges, please feel free to reach out if you need any further clarification on them. Our team is available to assist with any questions you may have. We will notify you once the payment is received. Should you need anything else, don't hesitate to contact us. Best regards, Accounting Department",
+    "category": "Work",
+    "priority": 7.0,
+    "summarized_content": "Accounting department thanks the client for confirming payment and offers assistance with any additional charges."
+  },
+  {
+    "subject": "Re: Job Application Status Update",
+    "sender": "hr@company.com",
+    "receiver": "candidate@company.com",
+    "datetime": "2025-03-22 16:00:00",
+    "body": "Dear [Candidate], thank you for your interest in the Junior Developer position at our company. After carefully reviewing your application and interviewing you, we regret to inform you that we have decided to proceed with another candidate at this time. We truly appreciate the time and effort you invested in the interview process. We encourage you to apply for future openings and wish you all the best in your career pursuits. Regards, HR Team",
+    "category": "Work",
+    "priority": 9.2,
+    "summarized_content": "Unsuccessful job application update with encouragement to apply for future roles."
+  },
+  {
+    "subject": "Re: Job Application Status Update",
+    "sender": "candidate@company.com",
+    "receiver": "hr@company.com",
+    "datetime": "2025-03-22 16:30:00",
+    "body": "Thank you for informing me of the decision. While I am disappointed, I appreciate the opportunity to interview with your team. I would certainly be interested in any future openings and will keep an eye on your careers page. I would also welcome any feedback on my interview performance that could help me improve in future interviews. Thank you once again for your time and consideration. Regards, [Candidate]",
+    "category": "Work",
+    "priority": 7.2,
+    "summarized_content": "Candidate expresses disWork, interest in future roles, and requests feedback."
+  },
+  {
+    "subject": "Re: Job Application Status Update",
+    "sender": "hr@company.com",
+    "receiver": "candidate@company.com",
+    "datetime": "2025-03-22 17:00:00",
+    "body": "Thank you for your understanding and kind words. We do not have any specific feedback to provide at this time but encourage you to stay in touch. We will certainly reach out to you for future opportunities that match your skill set. We wish you the best of luck with your job search, and we hope to cross paths again soon. Best regards, HR Team",
+    "category": "Work",
+    "priority": 7.5,
+    "summarized_content": "HR thanks candidate for understanding and encourages staying in touch for future opportunities."
+  },
+  {
+    "subject": "Re: Action Required: Tax Filing Reminder",
+    "sender": "tax@company.com",
+    "receiver": "employee@company.com",
+    "datetime": "2025-03-23 12:00:00",
+    "body": "Dear [Employee], this is a final reminder that your tax filing is due by the end of the month. Please ensure that all relevant documents are submitted before the deadline to avoid any late fees or penalties. Should you require assistance or need any further clarification on the filing process, our department is here to help. Please don't hesitate to reach out. Regards, Tax Department",
+    "category": "Work",
+    "priority": 2.0,
+    "summarized_content": "Final reminder to file taxes, with an offer of assistance from the Tax Department."
+  },
+  {
+    "subject": "Re: Action Required: Tax Filing Reminder",
+    "sender": "employee@company.com",
+    "receiver": "tax@company.com",
+    "datetime": "2025-03-23 12:30:00",
+    "body": "Thank you for the reminder. I will be sure to file my taxes by the end of today and submit all the required documents. I have also reviewed the form, but I would like to confirm one section of the filing before I submit it. I will contact you if I have any questions. Regards, [Employee]",
+    "category": "Work",
+    "priority": 5.5,
+    "summarized_content": "Employee confirms tax filing today and requests clarification on one section."
+  },
+  {
+    "subject": "Re: Action Required: Tax Filing Reminder",
+    "sender": "tax@company.com",
+    "receiver": "employee@company.com",
+    "datetime": "2025-03-23 13:00:00",
+    "body": "Thank you for confirming. If you need assistance with any section of the tax filing, please feel free to reach out, and we’ll be happy to help. Once your submission is complete, please send us a confirmation. Regards, Tax Department",
+    "category": "Work",
+    "priority": 6.0,
+    "summarized_content": "Tax department offers assistance and requests confirmation once the filing is complete."
+  },
+  {
+    "subject": "Re: System Maintenance Notice",
+    "sender": "it@company.com",
+    "receiver": "team@company.com",
+    "datetime": "2025-03-20 17:30:00",
+    "body": "Dear Team, just a final reminder regarding the system maintenance scheduled for tonight. As previously mentioned, the maintenance will begin at midnight and end by 3 AM. Please ensure all your work is saved and that you are logged out before the maintenance starts. This will help us ensure that no data is lost during the process. If you experience any issues after the maintenance, please don't hesitate to contact IT support immediately. Regards, IT Department",
+    "category": "Work",
+    "priority": 2.2,
+    "summarized_content": "Final reminder for tonight’s system maintenance and instructions to save work."
+  },
+  {
+    "subject": "Re: System Maintenance Notice",
+    "sender": "team@company.com",
+    "receiver": "it@company.com",
+    "datetime": "2025-03-20 17:45:00",
+    "body": "Thank you for the reminder. I have saved all my work and logged out of the system. I’ll be sure to follow up with IT if I encounter any issues tomorrow morning. Regards, Team Member",
+    "category": "Work",
+    "priority": 6.0,
+    "summarized_content": "Team member confirms saving work and logs out before system maintenance."
+  },
+  {
+    "subject": "Re: System Maintenance Notice",
+    "sender": "it@company.com",
+    "receiver": "team@company.com",
+    "datetime": "2025-03-20 18:00:00",
+    "body": "Thank you for your cooperation. If there are any problems or if you find that any files are missing post-maintenance, please notify IT support immediately so that we can resolve the issue quickly. We appreciate your understanding and support. Regards, IT Team",
+    "category": "Work",
+    "priority": 5.5,
+    "summarized_content": "IT department thanks the team for cooperation and offers assistance if issues arise post-maintenance."
+  },
+  {
+    "subject": "Re: Job Application for Marketing Executive Position",
+    "sender": "hr@company.com",
+    "receiver": "candidate@company.com",
+    "datetime": "2025-03-19 09:00:00",
+    "body": "Dear [Candidate], we’ve reviewed your application for the Marketing Executive position, and we are impressed with your qualifications. We would like to invite you to an interview scheduled for March 25th at 10 AM. Please confirm your availability for the meeting and let us know if you require any additional information. Looking forward to meeting you! Regards, HR Team",
+    "category": "Work",
+    "priority": 2.3,
+    "summarized_content": "Invitation to interview for Marketing Executive position on March 25th."
+  },
+  {
+    "subject": "Re: Job Application for Marketing Executive Position",
+    "sender": "candidate@company.com",
+    "receiver": "hr@company.com",
+    "datetime": "2025-03-19 09:15:00",
+    "body": "Thank you for the opportunity! I’m excited about the interview and would love to confirm my availability for the meeting on March 25th at 10 AM. Please let me know if there are any documents or additional materials I should bring to the interview. Regards, [Candidate]",
+    "category": "Work",
+    "priority": 3.7,
+    "summarized_content": "Candidate confirms availability for the interview on March 25th."
+  },
+  {
+    "subject": "Re: Job Application for Marketing Executive Position",
+    "sender": "hr@company.com",
+    "receiver": "candidate@company.com",
+    "datetime": "2025-03-19 09:30:00",
+    "body": "Thank you for confirming your availability. For the interview, please bring an updated copy of your resume, a portfolio of your previous work, and any references you’d like to share. If you have any questions about the interview format, feel free to reach out. We look forward to meeting you soon. Best regards, HR Team",
+    "category": "Work",
+    "priority": 4.5,
+    "summarized_content": "HR confirms interview details and asks for documents to bring."
+  },
+  {
+    "subject": "Re: Quarterly Financial Review Meeting",
+    "sender": "ceo@company.com",
+    "receiver": "board@company.com",
+    "datetime": "2025-03-25 16:00:00",
+    "body": "Dear Board Members, as part of our quarterly financial review, please make sure to prepare your reports for the meeting scheduled on April 10th. We will be reviewing financial performance, key initiatives, and making decisions for the next quarter. Please send your reports in advance if possible. Looking forward to seeing you all at the meeting. Regards, CEO",
+    "category": "Work",
+    "priority": 3.0,
+    "summarized_content": "Reminder to prepare reports for the quarterly financial review on April 10th."
+  },
+  {
+    "subject": "Re: Quarterly Financial Review Meeting",
+    "sender": "board@company.com",
+    "receiver": "ceo@company.com",
+    "datetime": "2025-03-25 16:30:00",
+    "body": "Thank you for the reminder. We are currently finalizing our reports and will send them over in the next couple of days. We will be ready for the meeting on April 10th and look forward to discussing the upcoming quarter’s strategies. Regards, Board Member",
+    "category": "Work",
+    "priority": 4.0,
+    "summarized_content": "Board member confirms finalization of reports and readiness for the financial review meeting."
+  },
+  {
+    "subject": "Re: Invoice for April 2025 Services",
+    "sender": "accounting@company.com",
+    "receiver": "client@company.com",
+    "datetime": "2025-03-23 13:00:00",
+    "body": "Dear [Client], we are sending this reminder about the invoice for April 2025 services, which is due by the end of the month. Please ensure payment is processed by the due date to avoid any service interruptions. If you require any assistance or have any questions about the invoice, feel free to contact us. Best regards, Accounting Team",
+    "category": "Work",
+    "priority": 3.1,
+    "summarized_content": "Reminder about invoice for April 2025 services and payment due date."
+  },
+  {
+    "subject": "Re: Invoice for April 2025 Services",
+    "sender": "client@company.com",
+    "receiver": "accounting@company.com",
+    "datetime": "2025-03-23 13:30:00",
+    "body": "Thank you for the reminder. We have reviewed the invoice, and everything looks in order. We will ensure payment is processed by the end of the day. If any issues arise, we will let you know. Regards, Client",
+    "category": "Work",
+    "priority": 6.0,
+    "summarized_content": "Client confirms invoice review and payment processing by end of the day."
+  },
+  {
+    "subject": "Re: Invoice for April 2025 Services",
+    "sender": "accounting@company.com",
+    "receiver": "client@company.com",
+    "datetime": "2025-03-23 14:00:00",
+    "body": "Thank you for confirming the payment. We appreciate your prompt attention to this matter. If you have any further questions or need assistance with any future invoices, please don’t hesitate to reach out. Regards, Accounting Team",
+    "category": "Work",
+    "priority": 7.0,
+    "summarized_content": "Accounting team confirms receipt of client’s payment and offers further assistance."
+  },
+  {
+    "subject": "Re: Tax Filing Reminder",
+    "sender": "tax@company.com",
+    "receiver": "employee@company.com",
+    "datetime": "2025-03-23 16:00:00",
+    "body": "Dear [Employee], just a final reminder regarding your tax filing, which is due by the end of the month. Please ensure all necessary documents are submitted to avoid any late fees or penalties. If you require any assistance with the filing, our team is here to help. Regards, Tax Department",
+    "category": "Work",
+    "priority": 2.5,
+    "summarized_content": "Final reminder for tax filing submission, with assistance offered if needed."
+  },
+  {
+    "subject": "Re: Tax Filing Reminder",
+    "sender": "employee@company.com",
+    "receiver": "tax@company.com",
+    "datetime": "2025-03-23 16:15:00",
+    "body": "Thank you for the reminder. I’ve already filed my taxes and have submitted the necessary documents. I will forward the confirmation once it’s completed. Regards, [Employee]",
+    "category": "Work",
+    "priority": 5.2,
+    "summarized_content": "Employee confirms tax filing submission and will forward confirmation once done."
+  },
+  {
+    "subject": "Re: Tax Filing Reminder",
+    "sender": "tax@company.com",
+    "receiver": "employee@company.com",
+    "datetime": "2025-03-23 16:30:00",
+    "body": "Thank you for confirming. Once we receive the confirmation of your submission, we will update our records. If you encounter any issues, please do not hesitate to reach out to us. Regards, Tax Department",
+    "category": "Work",
+    "priority": 6.5,
+    "summarized_content": "Tax department acknowledges confirmation and offers assistance if needed."
+  },
+  {
+    "subject": "Re: Meeting on the Project Update",
+    "sender": "john.doe@company.com",
+    "receiver": "alice.jones@company.com",
+    "datetime": "2025-03-27 10:15:00",
+    "body": "Hi Alice, I appreciate your prompt update and the work you’ve put into the dashboard. During the meeting, I’d like us to focus on the specific user feedback you gathered. We also need to evaluate how we can implement those changes in the upcoming release. Additionally, please bring any blockers you might have in the implementation phase so we can address them together. See you soon! Regards, John",
+    "category": "Work",
+    "priority": 2.5,
+    "summarized_content": "John appreciates Alice's update and asks her to bring user feedback and blockers to the meeting."
+  },
+  {
+    "subject": "Re: Meeting on the Project Update",
+    "sender": "alice.jones@company.com",
+    "receiver": "john.doe@company.com",
+    "datetime": "2025-03-27 10:25:00",
+    "body": "Hi John, noted! I’ll be ready to discuss the user feedback and the proposed changes for the release. I will also prepare a list of any issues we’ve encountered so far, especially regarding the integration with the third-party APIs. I’ll see you at the meeting! Regards, Alice",
+    "category": "Work",
+    "priority": 4.2,
+    "summarized_content": "Alice confirms she will bring user feedback and integration issues to the meeting."
+  },
+  {
+    "subject": "Re: Invoice for March 2025 Payment",
+    "sender": "accounting@company.com",
+    "receiver": "client@company.com",
+    "datetime": "2025-03-26 16:45:00",
+    "body": "Dear [Client], I just wanted to follow up regarding the payment for the March 2025 invoice. We noticed that the payment hasn’t been processed yet, and we want to ensure there are no issues on your end. If you require any additional information or have any questions about the charges, please let us know. We’re happy to assist you in any way we can. Regards, Accounting Department",
+    "category": "Work",
+    "priority": 2.2,
+    "summarized_content": "Follow-up reminder on March 2025 invoice payment with an offer of assistance."
+  },
+  {
+    "subject": "Re: Invoice for March 2025 Payment",
+    "sender": "client@company.com",
+    "receiver": "accounting@company.com",
+    "datetime": "2025-03-26 17:00:00",
+    "body": "Thank you for following up. I apologize for the delay in payment; we’ve encountered a small issue with the payment system that has now been resolved. I will process the payment within the next few hours, and you should receive confirmation shortly. Please let me know if you have any further questions. Regards, Client",
+    "category": "Work",
+    "priority": 4.0,
+    "summarized_content": "Client confirms payment issue has been resolved and will process payment soon."
+  },
+  {
+    "subject": "Re: Invoice for March 2025 Payment",
+    "sender": "accounting@company.com",
+    "receiver": "client@company.com",
+    "datetime": "2025-03-26 17:30:00",
+    "body": "Thank you for letting us know, [Client]. We appreciate your prompt response and are glad to hear that the issue has been resolved. Once the payment is processed, please send us a confirmation so we can update our records accordingly. If there’s anything else you need, feel free to reach out. Best regards, Accounting Department",
+    "category": "Work",
+    "priority": 5.2,
+    "summarized_content": "Accounting team thanks client for the update and requests payment confirmation."
+  },
+  {
+    "subject": "Re: Quarterly Financial Review Meeting",
+    "sender": "ceo@company.com",
+    "receiver": "board@company.com",
+    "datetime": "2025-03-27 14:00:00",
+    "body": "Dear Board Members, I hope you’ve had the chance to review the reports I sent earlier. As we prepare for our quarterly review on April 10th, I would like to focus on our budget allocation for the next quarter and the key performance indicators we are tracking. We’ll also need to discuss the long-term strategic goals and how we plan to achieve them. Please let me know if you have any specific topics you’d like to add to the agenda. Regards, CEO",
+    "category": "Work",
+    "priority": 3.2,
+    "summarized_content": "CEO outlines the agenda for the quarterly financial review meeting on April 10th."
+  },
+  {
+    "subject": "Re: Quarterly Financial Review Meeting",
+    "sender": "board@company.com",
+    "receiver": "ceo@company.com",
+    "datetime": "2025-03-27 14:30:00",
+    "body": "Thank you for the update, [CEO]. I have reviewed the reports and agree with the points you’ve outlined. I would also like to propose a discussion on expanding our international presence and evaluating potential new markets. Additionally, I think it would be useful to analyze the results of our recent product launch. Looking forward to the meeting. Regards, Board Member",
+    "category": "Work",
+    "priority": 4.3,
+    "summarized_content": "Board member suggests adding international expansion and product launch analysis to the meeting agenda."
+  },
+  {
+    "subject": "Re: Quarterly Financial Review Meeting",
+    "sender": "ceo@company.com",
+    "receiver": "board@company.com",
+    "datetime": "2025-03-27 15:00:00",
+    "body": "Thank you for your input. I’ve noted your suggestions regarding international expansion and the product launch analysis. I will make sure to include these in the agenda. As we prepare for the meeting, please feel free to reach out if you have any further additions or concerns. I look forward to a productive discussion on April 10th. Regards, CEO",
+    "category": "Work",
+    "priority": 5.2,
+    "summarized_content": "CEO confirms board member’s suggestions for the meeting agenda."
+  },
+  {
+    "subject": "Re: Job Application for Senior Developer Position",
+    "sender": "hr@company.com",
+    "receiver": "candidate@company.com",
+    "datetime": "2025-03-22 10:30:00",
+    "body": "Dear [Candidate], thank you for your application for the Senior Developer position. After reviewing your resume and qualifications, we are pleased to invite you for an interview. The interview will be conducted on March 30th at 2 PM. Please confirm your availability and let us know if you need further details. We look forward to meeting you. Regards, HR Team",
+    "category": "Work",
+    "priority": 2.7,
+    "summarized_content": "Invitation for an interview for Senior Developer position on March 30th at 2 PM."
+  },
+  {
+    "subject": "Re: Job Application for Senior Developer Position",
+    "sender": "candidate@company.com",
+    "receiver": "hr@company.com",
+    "datetime": "2025-03-22 10:45:00",
+    "body": "Thank you for considering my application! I am available for the interview on March 30th at 2 PM and I’m looking forward to discussing my qualifications with you in more detail. Please let me know if there’s anything specific I should bring or prepare for the interview. Regards, [Candidate]",
+    "category": "Work",
+    "priority": 3.8,
+    "summarized_content": "Candidate confirms availability for the interview on March 30th and asks for any specific preparations."
+  },
+  {
+    "subject": "Re: Job Application for Senior Developer Position",
+    "sender": "hr@company.com",
+    "receiver": "candidate@company.com",
+    "datetime": "2025-03-22 11:00:00",
+    "body": "Thank you for confirming. For the interview, please bring an updated copy of your resume, a portfolio showcasing your work, and any references you’d like to provide. We look forward to meeting you on March 30th. Regards, HR Team",
+    "category": "Work",
+    "priority": 4.5,
+    "summarized_content": "HR confirms the interview details and asks for documents to be brought."
+  },
+  {
+    "subject": "Re: Invoice for April 2025 Services",
+    "sender": "accounting@company.com",
+    "receiver": "client@company.com",
+    "datetime": "2025-03-24 13:30:00",
+    "body": "Dear [Client], this is a reminder that the invoice for April 2025 services is due by the end of the month. Kindly make sure the payment is processed to avoid any late fees. Should you have any questions regarding the charges or the payment process, please don’t hesitate to contact us. Best regards, Accounting Department",
+    "category": "Work",
+    "priority": 3.2,
+    "summarized_content": "Reminder for payment of the April 2025 services invoice."
+  },
+  {
+    "subject": "Re: Invoice for April 2025 Services",
+    "sender": "client@company.com",
+    "receiver": "accounting@company.com",
+    "datetime": "2025-03-24 14:00:00",
+    "body": "Thank you for the reminder. We are currently reviewing the invoice, and I’ll ensure payment is processed by the end of the day. If we have any further questions, I will contact you. Regards, Client",
+    "category": "Work",
+    "priority": 6.0,
+    "summarized_content": "Client confirms payment processing by the end of the day."
+  },
+  {
+    "subject": "Re: Invoice for April 2025 Services",
+    "sender": "accounting@company.com",
+    "receiver": "client@company.com",
+    "datetime": "2025-03-24 14:30:00",
+    "body": "Thank you for confirming. We will update our records once the payment is processed. If there is anything else you need, please don’t hesitate to reach out. Regards, Accounting Team",
+    "category": "Work",
+    "priority": 7.2,
+    "summarized_content": "Accounting team confirms receipt of client’s payment and offers further assistance."
+  },
+  {
+    "subject": "Project Status Update - Q1 2025",
+    "sender": "mark.smith@company.com",
+    "receiver": "team@company.com",
+    "datetime": "2025-03-25 10:30:00",
+    "body": "Dear Team, I wanted to provide a quick update on the project for Q1 2025. We are on track to meet the initial deadlines, but there are a few areas that need attention, specifically with the user interface design. Please make sure to check the latest deliverables by the end of this week. I will review the progress in our next meeting. Regards, Mark",
+    "category": "Work",
+    "priority": 4.5,
+    "summarized_content": "Mark provides a status update on the Q1 2025 project and requests attention to UI design."
+  },
+  {
+    "subject": "Sales Meeting Recap and Action Items",
+    "sender": "jane.doe@company.com",
+    "receiver": "sales@company.com",
+    "datetime": "2025-03-24 16:45:00",
+    "body": "Hi Team, I’m sending out a quick recap of today’s sales meeting. We discussed strategies for the upcoming product launch and reviewed the targets for the next quarter. Action items include finalizing the product pitch, aligning on marketing materials, and contacting potential partners. Let's aim to complete these tasks before the end of next week. Regards, Jane",
+    "category": "Work",
+    "priority": 3.2,
+    "summarized_content": "Jane recaps the sales meeting and outlines action items for the team."
+  },
+  {
+    "subject": "Invoice #2352 for March 2025 Services",
+    "sender": "accounting@company.com",
+    "receiver": "client@company.com",
+    "datetime": "2025-03-22 09:00:00",
+    "body": "Dear Client, Attached is invoice #2352 for the services rendered in March 2025. The total amount due is $1,250, and payment is due by March 30th. Please let us know if you have any questions regarding the charges. We appreciate your prompt attention to this matter. Regards, Accounting Team",
+    "category": "Work",
+    "priority": 3.5,
+    "summarized_content": "Invoice #2352 for March 2025 services with payment due by March 30th."
+  },
+  {
+    "subject": "Team Building Event Announcement",
+    "sender": "hr@company.com",
+    "receiver": "all@company.com",
+    "datetime": "2025-03-20 15:00:00",
+    "body": "Dear All, We are excited to announce a team-building event next month on April 15th. It will be a full day of activities designed to help us collaborate better as a team and have some fun outside the office. Please RSVP by April 1st so we can finalize the arrangements. Looking forward to seeing you there! Regards, HR Team",
+    "category": "Work",
+    "priority": 7.5,
+    "summarized_content": "HR announces a team-building event on April 15th and requests RSVPs."
+  },
+  {
+    "subject": "Application Received for Software Engineer Position",
+    "sender": "hr@company.com",
+    "receiver": "applicant@company.com",
+    "datetime": "2025-03-20 10:00:00",
+    "body": "Dear [Applicant], Thank you for applying for the Software Engineer position. We have received your application and will review it as soon as possible. If your qualifications meet our requirements, we will contact you to schedule an interview. Thank you again for your interest in working with us. Regards, HR Team",
+    "category": "Work",
+    "priority": 6.8,
+    "summarized_content": "HR acknowledges receipt of the application and mentions next steps."
+  },
+  {
+    "subject": "Follow-up on Submitted Resume for Graphic Designer Role",
+    "sender": "hr@company.com",
+    "receiver": "applicant@company.com",
+    "datetime": "2025-03-19 12:00:00",
+    "body": "Dear [Applicant], I’m following up on the graphic designer role you applied for. We were impressed with your portfolio and would like to schedule an interview with you next week. Please let us know your availability. Looking forward to speaking with you soon. Regards, HR Team",
+    "category": "Work",
+    "priority": 4.2,
+    "summarized_content": "HR follows up with a candidate for an interview regarding the Graphic Designer role."
+  },
+  {
+    "subject": "Welcome to the Team - Onboarding Information",
+    "sender": "hr@company.com",
+    "receiver": "newhire@company.com",
+    "datetime": "2025-03-18 14:00:00",
+    "body": "Dear [New Hire], Congratulations and welcome to the team! We are thrilled to have you on board. Please find attached the onboarding documents, including your schedule for the first week, as well as the details about the company’s policies and benefits. If you have any questions before your first day, don’t hesitate to reach out. We look forward to seeing you on your start date. Regards, HR Team",
+    "category": "Work",
+    "priority": 3.0,
+    "summarized_content": "HR welcomes a new hire and provides onboarding details."
+  },
+  {
+    "subject": "Monthly IT System Maintenance Notice",
+    "sender": "it@company.com",
+    "receiver": "all@company.com",
+    "datetime": "2025-03-17 16:00:00",
+    "body": "Dear Team, Please be advised that the monthly system maintenance will occur this Friday, March 20th, from 12 AM to 3 AM. During this period, all internal systems will be temporarily unavailable. Please plan your work accordingly. If you experience any issues after the maintenance window, please contact IT support. Regards, IT Team",
+    "category": "Work",
+    "priority": 2.5,
+    "summarized_content": "Notification of system maintenance scheduled for March 20th from 12 AM to 3 AM."
+  },
+  {
+    "subject": "Reminder: Annual Performance Review Due",
+    "sender": "hr@company.com",
+    "receiver": "all@company.com",
+    "datetime": "2025-03-16 16:00:00",
+    "body": "Dear All, Just a reminder that the annual performance reviews are due by the end of this month. Please ensure that you have submitted your self-assessments and scheduled a time with your manager for your review. If you need assistance, please contact HR. Regards, HR Team",
+    "category": "Work",
+    "priority": 5.0,
+    "summarized_content": "Reminder to submit self-assessments and schedule performance reviews before month-end."
+  },
+  {
+    "subject": "Team Outing Plans for Q2",
+    "sender": "hr@company.com",
+    "receiver": "all@company.com",
+    "datetime": "2025-03-15 11:30:00",
+    "body": "Hi Team, As part of our quarterly team-building initiative, we’re organizing an outing for Q2. The date and location are still being finalized, but we wanted to give you a heads-up. Please look out for more details soon. Regards, HR Team",
+    "category": "Work",
+    "priority": 9.0,
+    "summarized_content": "HR announces a team outing for Q2 and promises more details soon."
+  },
+  {
+    "subject": "Request for Project Timeline Update",
+    "sender": "alice.jones@company.com",
+    "receiver": "projectmanager@company.com",
+    "datetime": "2025-03-26 13:00:00",
+    "body": "Dear Project Manager, I hope this email finds you well. I would like to request an update on the current timeline for the XYZ project. Specifically, I’m interested in the revised deadlines for the development and testing phases, as we’ve encountered some delays recently. Could you please provide me with an updated schedule? Your prompt response will be greatly appreciated. Best regards, Alice",
+    "category": "Work",
+    "priority": 4.2,
+    "summarized_content": "Alice requests an updated timeline for the XYZ project due to recent delays."
+  },
+  {
+    "subject": "Re: Request for Project Timeline Update",
+    "sender": "projectmanager@company.com",
+    "receiver": "alice.jones@company.com",
+    "datetime": "2025-03-26 13:30:00",
+    "body": "Hi Alice, thanks for your email. I am currently reviewing the timeline and will send you a detailed update by the end of the day. The development phase has indeed been delayed due to some technical challenges, but we’re working on mitigating them. I will include the new timelines for all phases in the update. Regards, Project Manager",
+    "category": "Work",
+    "priority": 5.2,
+    "summarized_content": "Project Manager acknowledges the delay and promises to send an updated timeline."
+  },
+  {
+    "subject": "Action Required: System Update for Security Patch",
+    "sender": "it@company.com",
+    "receiver": "all@company.com",
+    "datetime": "2025-03-24 16:30:00",
+    "body": "Dear all, we’ve received an important update for the security patch that needs to be installed on all company devices. This patch will address several vulnerabilities, including one related to recent malware attacks targeting similar systems. Please ensure that your devices are updated by the end of the day, and if you face any issues with the update process, reach out to IT support. Regards, IT Team",
+    "category": "Work",
+    "priority": 2.0,
+    "summarized_content": "IT requests all employees to install a security patch by the end of the day."
+  },
+  {
+    "subject": "Meeting Notes and Action Items",
+    "sender": "lisa.white@company.com",
+    "receiver": "team@company.com",
+    "datetime": "2025-03-23 15:00:00",
+    "body": "Dear team, attached are the meeting notes from our discussion last week, along with the action items assigned. Please review the notes and start working on your assigned tasks. We’ll follow up in the next meeting to track progress. Let me know if you have any questions or if something needs further clarification. Best regards, Lisa",
+    "category": "Work",
+    "priority": 5.0,
+    "summarized_content": "Lisa shares meeting notes and assigned action items to the team."
+  },
+  {
+    "subject": "Re: Meeting Notes and Action Items",
+    "sender": "mark.smith@company.com",
+    "receiver": "lisa.white@company.com",
+    "datetime": "2025-03-23 15:30:00",
+    "body": "Hi Lisa, thank you for sharing the meeting notes. I’ve reviewed them and started working on my tasks. However, I need further clarification on the timeline for the data migration task. Could we possibly discuss this briefly in our next meeting? Let me know. Regards, Mark",
+    "category": "Work",
+    "priority": 6.0,
+    "summarized_content": "Mark requests clarification on the data migration task timeline."
+  },
+  {
+    "subject": "Re: Meeting Notes and Action Items",
+    "sender": "lisa.white@company.com",
+    "receiver": "mark.smith@company.com",
+    "datetime": "2025-03-23 15:45:00",
+    "body": "Hi Mark, I’ve noted your request and will include the discussion on the data migration task in our next meeting. I’ll also update the timeline to reflect any changes. Let me know if you need anything else in the meantime. Regards, Lisa",
+    "category": "Work",
+    "priority": 7.0,
+    "summarized_content": "Lisa confirms the update to the timeline and plans to discuss the task in the next meeting."
+  },
+  {
+    "subject": "Quarterly Sales Report",
+    "sender": "sales@company.com",
+    "receiver": "manager@company.com",
+    "datetime": "2025-03-22 09:00:00",
+    "body": "Dear Manager, attached is the quarterly sales report, which includes an analysis of our performance across all regions. This report also highlights areas where we’ve exceeded expectations and where there is room for improvement. Please review and let me know if you have any questions or would like to discuss any specific sections in more detail. Regards, Sales Team",
+    "category": "Work",
+    "priority": 4.3,
+    "summarized_content": "Sales team submits quarterly report and offers to discuss performance in detail."
+  },
+  {
+    "subject": "Re: Quarterly Sales Report",
+    "sender": "manager@company.com",
+    "receiver": "sales@company.com",
+    "datetime": "2025-03-22 09:30:00",
+    "body": "Thank you for the report. I’ve gone through the numbers and will have a more detailed review once I’ve analyzed the regional performance breakdowns. We should discuss the strategies to improve our performance in the underperforming regions in our next meeting. Regards, Manager",
+    "category": "Work",
+    "priority": 5.0,
+    "summarized_content": "Manager acknowledges the report and suggests discussing strategies for underperforming regions."
+  },
+  {
+    "subject": "Re: Quarterly Sales Report",
+    "sender": "sales@company.com",
+    "receiver": "manager@company.com",
+    "datetime": "2025-03-22 09:45:00",
+    "body": "Thanks for your feedback. We’ll make sure to have additional insights ready for the discussion on improving performance in those regions. Looking forward to our next meeting. Regards, Sales Team",
+    "category": "Work",
+    "priority": 6.0,
+    "summarized_content": "Sales team confirms readiness to discuss strategies for improvement in underperforming regions."
+  },
+  {
+    "subject": "Re: Invoice for April 2025 Services",
+    "sender": "accounting@company.com",
+    "receiver": "client@company.com",
+    "datetime": "2025-03-23 16:00:00",
+    "body": "Dear [Client], I hope you’re doing well. I wanted to follow up on the invoice for April 2025 services that was sent last week. We’d appreciate it if you could confirm receipt of the invoice and let us know if there are any questions or discrepancies you would like to address before processing the payment. Regards, Accounting Department",
+    "category": "Work",
+    "priority": 4.5,
+    "summarized_content": "Follow-up on April 2025 services invoice with a request for confirmation and any questions."
+  },
+  {
+    "subject": "Re: Invoice for April 2025 Services",
+    "sender": "client@company.com",
+    "receiver": "accounting@company.com",
+    "datetime": "2025-03-23 16:30:00",
+    "body": "Thank you for reaching out. I’ve received the invoice, and everything looks good on my end. I will process the payment by the end of the day, and will confirm once the transaction is completed. Regards, Client",
+    "category": "Work",
+    "priority": 5.5,
+    "summarized_content": "Client confirms receipt of invoice and will process payment by end of the day."
+  },
+  {
+    "subject": "Project Deadline Extension Request",
+    "sender": "alice.jones@company.com",
+    "receiver": "manager@company.com",
+    "datetime": "2025-03-12 10:00:00",
+    "body": "Dear [Manager], I’m writing to request a two-week extension for the project deadline. Due to unforeseen delays, we are unable to meet the original deadline. We are working hard to ensure the final deliverables meet the highest quality standards, but we need additional time to complete the remaining tasks. I would greatly appreciate your understanding and approval. Regards, Alice",
+    "category": "Work",
+    "priority": 2.8,
+    "summarized_content": "Alice requests a two-week extension for the project deadline due to unforeseen delays."
+  },
+  {
+    "subject": "Re: Project Deadline Extension Request",
+    "sender": "manager@company.com",
+    "receiver": "alice.jones@company.com",
+    "datetime": "2025-03-12 10:30:00",
+    "body": "Dear Alice, I understand the challenges you’ve encountered and appreciate your dedication to delivering quality work. I approve the extension request and encourage you to use this time effectively. Please keep me updated on the progress and let me know if you require further assistance. Regards, [Manager]",
+    "category": "Work",
+    "priority": 3.8,
+    "summarized_content": "Manager approves Alice’s request for a two-week deadline extension and offers support."
+  },
+  {
+    "subject": "Sales Report for Q1 2025",
+    "sender": "sales@company.com",
+    "receiver": "manager@company.com",
+    "datetime": "2025-03-10 09:00:00",
+    "body": "Dear [Manager], Attached is the sales report for Q1 2025. We have seen a slight increase in sales in comparison to Q4 2024, but we are still working towards meeting our quarterly targets. I’ve included detailed breakdowns by region and product, as well as a summary of the key challenges we encountered. Please let me know if you need any further information. Regards, Sales Team",
+    "category": "Work",
+    "priority": 6.4,
+    "summarized_content": "Sales team submits the Q1 2025 report and highlights key sales challenges."
+  },
+  {
+    "subject": "Re: Sales Report for Q1 2025",
+    "sender": "manager@company.com",
+    "receiver": "sales@company.com",
+    "datetime": "2025-03-10 09:30:00",
+    "body": "Dear Sales Team, Thank you for the report. I appreciate the detailed breakdown, and I see the challenges you mentioned. Let’s plan a meeting this week to discuss strategies for addressing those challenges and how we can further improve sales in the next quarter. I will schedule a time for us to meet. Regards, [Manager]",
+    "category": "Work",
+    "priority": 4.5,
+    "summarized_content": "Manager thanks the sales team for the report and schedules a meeting to address challenges."
+  },
+  {
+    "subject": "Reminder: Upcoming System Update",
+    "sender": "it@company.com",
+    "receiver": "all@company.com",
+    "datetime": "2025-03-09 16:00:00",
+    "body": "Dear Team, This is a reminder that the system update will be conducted this Saturday, March 14th, from 10 PM to 2 AM. During this period, all internal systems will be temporarily unavailable. Please make sure to save your work before the maintenance window and notify IT if you encounter any issues afterward. Regards, IT Department",
+    "category": "Work",
+    "priority": 5.2,
+    "summarized_content": "Reminder for system update on March 14th from 10 PM to 2 AM."
+  },
+  {
+    "subject": "Re: Reminder: Upcoming System Update",
+    "sender": "team@company.com",
+    "receiver": "it@company.com",
+    "datetime": "2025-03-09 16:30:00",
+    "body": "Thank you for the reminder. I’ve saved all my work and logged out of the system. I’ll check with IT if I experience any issues once the update is complete. Regards, Team Member",
+    "category": "Work",
+    "priority": 7.0,
+    "summarized_content": "Team member confirms saving work and logging out before system update."
+  },
+  {
+    "subject": "Re: Reminder: Upcoming System Update",
+    "sender": "it@company.com",
+    "receiver": "team@company.com",
+    "datetime": "2025-03-09 17:00:00",
+    "body": "Thank you for confirming. We appreciate your cooperation. If you encounter any issues or have any questions after the update, feel free to contact IT support. Regards, IT Team",
+    "category": "Work",
+    "priority": 6.0,
+    "summarized_content": "IT confirms receipt and offers support if issues arise post-update."
+  },
+  {
+    "subject": "Cập nhật tiến độ dự án quý 1 2025",
+    "sender": "nguyen.thi@company.com",
+    "receiver": "team@company.com",
+    "datetime": "2025-03-25 10:30:00",
+    "body": "Chào đội ngũ, tôi muốn thông báo về tiến độ của dự án quý 1 năm 2025. Chúng ta đang đi đúng lộ trình với những mục tiêu đã đề ra, nhưng vẫn còn một số điểm cần chú ý, đặc biệt là về giao diện người dùng. Vui lòng kiểm tra các đầu ra mới nhất vào cuối tuần này. Tôi sẽ xem xét tiến độ trong cuộc họp tiếp theo. Trân trọng, Nguyễn Thi",
+    "category": "Work",
+    "priority": 4.8,
+    "summarized_content": "Cập nhật tiến độ dự án quý 1 và yêu cầu kiểm tra giao diện người dùng."
+  },
+  {
+    "subject": "Tóm tắt cuộc họp bán hàng và các công việc cần thực hiện",
+    "sender": "lan.nguyen@company.com",
+    "receiver": "sales@company.com",
+    "datetime": "2025-03-24 16:45:00",
+    "body": "Chào mọi người, tôi gửi tóm tắt cuộc họp bán hàng hôm nay. Chúng ta đã thảo luận về chiến lược cho sản phẩm sắp ra mắt và xem xét các mục tiêu cho quý tiếp theo. Các công việc cần thực hiện bao gồm hoàn thiện bản thuyết trình sản phẩm, đồng nhất tài liệu marketing, và liên hệ với các đối tác tiềm năng. Hãy hoàn thành các nhiệm vụ này trước cuối tuần sau. Trân trọng, Lan",
+    "category": "Work",
+    "priority": 3.5,
+    "summarized_content": "Tóm tắt cuộc họp bán hàng và các công việc cần hoàn thành."
+  },
+  {
+    "subject": "Hóa đơn dịch vụ tháng 3 năm 2025",
+    "sender": "accounting@company.com",
+    "receiver": "khachhang@company.com",
+    "datetime": "2025-03-22 09:00:00",
+    "body": "Kính gửi quý khách, Hóa đơn dịch vụ tháng 3 năm 2025 đã được đính kèm. Số tiền cần thanh toán là 1.250.000 VND và hạn thanh toán là ngày 30 tháng 3. Vui lòng thanh toán trước thời hạn để tránh các khoản phí phạt. Nếu quý khách có bất kỳ thắc mắc nào, xin vui lòng liên hệ với chúng tôi. Trân trọng, Phòng Kế toán",
+    "category": "Work",
+    "priority": 4.0,
+    "summarized_content": "Hóa đơn dịch vụ tháng 3 và yêu cầu thanh toán trước ngày 30 tháng 3."
+  },
+  {
+    "subject": "Thông báo sự kiện team-building",
+    "sender": "hr@company.com",
+    "receiver": "all@company.com",
+    "datetime": "2025-03-20 15:00:00",
+    "body": "Kính gửi toàn thể nhân viên, chúng tôi rất vui thông báo về sự kiện team-building sẽ được tổ chức vào ngày 15 tháng 4 sắp tới. Sự kiện này sẽ kéo dài cả ngày, bao gồm nhiều hoạt động giúp tăng cường sự hợp tác và tạo ra những kỷ niệm đáng nhớ. Vui lòng xác nhận tham gia sự kiện trước ngày 1 tháng 4 để chúng tôi có thể lên kế hoạch chi tiết. Trân trọng, Phòng Nhân sự",
+    "category": "Work",
+    "priority": 7.8,
+    "summarized_content": "Thông báo về sự kiện team-building vào ngày 15 tháng 4 và yêu cầu xác nhận tham gia."
+  },
+  {
+    "subject": "Thông tin về chương trình đào tạo nhân viên",
+    "sender": "hr@company.com",
+    "receiver": "all@company.com",
+    "datetime": "2025-03-19 12:00:00",
+    "body": "Kính gửi toàn thể nhân viên, chúng tôi xin thông báo rằng chương trình đào tạo kỹ năng lãnh đạo sẽ được tổ chức vào ngày 25 tháng 3. Chương trình này sẽ giúp nâng cao năng lực quản lý và kỹ năng làm việc nhóm. Vui lòng đăng ký tham gia trước ngày 22 tháng 3. Trân trọng, Phòng Nhân sự",
+    "category": "Work",
+    "priority": 4.4,
+    "summarized_content": "Phòng nhân sự thông báo chương trình đào tạo kỹ năng lãnh đạo vào ngày 25 tháng 3."
+  },
+  {
+    "subject": "Ứng tuyển vị trí Kỹ Sư Phần Mềm",
+    "sender": "hr@company.com",
+    "receiver": "ungvien@company.com",
+    "datetime": "2025-03-18 14:00:00",
+    "body": "Kính gửi [Ứng viên], cảm ơn bạn đã ứng tuyển vào vị trí Kỹ Sư Phần Mềm tại công ty chúng tôi. Sau khi xem xét hồ sơ của bạn, chúng tôi rất vui khi được mời bạn tham gia phỏng vấn vào ngày 25 tháng 3 lúc 10 giờ sáng. Vui lòng xác nhận lại thời gian phỏng vấn và cho chúng tôi biết nếu bạn cần thêm thông tin. Trân trọng, Phòng Nhân sự",
+    "category": "Work",
+    "priority": 6.2,
+    "summarized_content": "Phòng nhân sự mời ứng viên tham gia phỏng vấn vào ngày 25 tháng 3."
+  },
+  {
+    "subject": "Cập nhật tiến độ dự án tháng 3",
+    "sender": "nguyen.tran@company.com",
+    "receiver": "team@company.com",
+    "datetime": "2025-03-17 09:00:00",
+    "body": "Chào các bạn, tôi muốn cập nhật về tiến độ dự án trong tháng 3. Chúng ta đã hoàn thành một số mục tiêu quan trọng, tuy nhiên, vẫn còn một số vấn đề cần giải quyết, đặc biệt là về phần phát triển ứng dụng di động. Vui lòng cập nhật cho tôi về tình hình công việc của các bạn trong cuộc họp vào cuối tuần này. Trân trọng, Nguyễn Trần",
+    "category": "Work",
+    "priority": 3.6,
+    "summarized_content": "Nguyễn Trần cập nhật tiến độ dự án và yêu cầu báo cáo trong cuộc họp cuối tuần."
+  },
+  {
+    "subject": "Thông báo về bảo trì hệ thống",
+    "sender": "it@company.com",
+    "receiver": "all@company.com",
+    "datetime": "2025-03-16 16:00:00",
+    "body": "Kính gửi toàn thể nhân viên, thông báo rằng hệ thống sẽ tạm dừng hoạt động vào ngày thứ Sáu, 20 tháng 3, từ 12 giờ khuya đến 3 giờ sáng để thực hiện bảo trì định kỳ. Trong khoảng thời gian này, tất cả các dịch vụ sẽ không khả dụng. Vui lòng lưu ý và hoàn thành công việc trước thời gian bảo trì. Trân trọng, Phòng IT",
+    "category": "Work",
+    "priority": 2.5,
+    "summarized_content": "Thông báo về bảo trì hệ thống vào ngày 20 tháng 3 từ 12 giờ khuya đến 3 giờ sáng."
+  },
+  {
+    "subject": "Hóa đơn dịch vụ tháng 4",
+    "sender": "accounting@company.com",
+    "receiver": "khachhang@company.com",
+    "datetime": "2025-03-15 10:00:00",
+    "body": "Kính gửi quý khách, chúng tôi xin gửi kèm hóa đơn dịch vụ tháng 4. Số tiền cần thanh toán là 1.500.000 VND và hạn thanh toán là ngày 5 tháng 4. Vui lòng thanh toán đúng hạn để tránh các khoản phí trễ. Nếu quý khách có bất kỳ câu hỏi nào, xin vui lòng liên hệ với chúng tôi. Trân trọng, Phòng Kế toán",
+    "category": "Work",
+    "priority": 6.4,
+    "summarized_content": "Gửi hóa đơn dịch vụ tháng 4 và yêu cầu thanh toán trước ngày 5 tháng 4."
+  },
+  {
+    "subject": "Chia sẻ thông tin về dự án mới",
+    "sender": "nguyen.minh@company.com",
+    "receiver": "team@company.com",
+    "datetime": "2025-03-14 09:00:00",
+    "body": "Chào mọi người, tôi muốn chia sẻ với các bạn về dự án mới mà chúng ta đang triển khai. Dự án này sẽ tập trung vào phát triển một sản phẩm phần mềm cho các doanh nghiệp nhỏ. Đây là một cơ hội lớn để mở rộng thị trường và tôi hy vọng chúng ta có thể hoàn thành dự án này đúng tiến độ và đạt chất lượng cao. Trân trọng, Nguyễn Minh",
+    "category": "Work",
+    "priority": 5.0,
+    "summarized_content": "Nguyễn Minh chia sẻ về dự án mới và hy vọng hoàn thành đúng tiến độ."
+  },
+  {
+    "subject": "Hỏi đáp về tài liệu dự án",
+    "sender": "vietnam@company.com",
+    "receiver": "team@company.com",
+    "datetime": "2025-03-13 13:30:00",
+    "body": "Chào các bạn, tôi có một số câu hỏi liên quan đến tài liệu dự án mà chúng ta đang làm. Cụ thể, tôi muốn làm rõ một số chi tiết về yêu cầu của khách hàng và cách chúng ta sẽ triển khai các tính năng chính. Mong mọi người phản hồi sớm để chúng ta có thể tiến hành nhanh chóng. Trân trọng, Vietnam",
+    "category": "Work",
+    "priority": 6.5,
+    "summarized_content": "Vietnam yêu cầu giải đáp thắc mắc về tài liệu dự án và yêu cầu phản hồi sớm."
+  },
+  {
+    "subject": "Weekly Standup Meeting Reminder",
+    "sender": "john.doe@company.com",
+    "receiver": "team@company.com",
+    "datetime": "2025-04-01 09:00:00",
+    "body": "Dear Team, this is a quick reminder that we have our weekly standup meeting tomorrow at 9 AM. Please prepare updates on any tasks you’ve completed, ongoing challenges, and objectives for the coming week. Let’s aim to keep the meeting efficient and focused so we can tackle any roadblocks as soon as possible. Regards, John",
+    "category": "Work",
+    "priority": 3.5,
+    "summarized_content": "Reminder for the weekly standup meeting, requesting updates and objectives for the coming week."
+  },
+  {
+    "subject": "Yêu cầu gia hạn hóa đơn tháng 4",
+    "sender": "accounting@company.com",
+    "receiver": "khachhang@company.com",
+    "datetime": "2025-04-01 10:30:00",
+    "body": "Kính gửi quý khách, chúng tôi nhận được thông báo rằng quý khách cần thêm thời gian để thanh toán hóa đơn tháng 4. Nếu quý khách muốn gia hạn, vui lòng gửi yêu cầu chính thức kèm theo lý do. Điều này sẽ giúp chúng tôi xem xét và đưa ra giải pháp linh hoạt, tránh phát sinh phí phạt. Xin cảm ơn và mong sớm nhận phản hồi từ quý khách. Trân trọng, Phòng Kế toán",
+    "category": "Work",
+    "priority": 4.8,
+    "summarized_content": "Accounting informs the client about a possible invoice extension for April and requests an official reason."
+  },
+  {
+    "subject": "Lịch đào tạo kỹ năng mềm mới",
+    "sender": "hr@company.com",
+    "receiver": "all@company.com",
+    "datetime": "2025-04-03 09:30:00",
+    "body": "Chào mọi người, chúng tôi vừa cập nhật lịch đào tạo kỹ năng mềm cho quý tới. Chương trình này sẽ bao gồm các khóa học về giao tiếp, giải quyết xung đột và làm việc nhóm, kéo dài từ ngày 15 đến 18 tháng 4. Vui lòng đăng ký trước ngày 10 tháng 4 để chúng tôi sắp xếp và chuẩn bị tài liệu phù hợp. Trân trọng, Phòng Nhân sự",
+    "category": "Work",
+    "priority": 5.5,
+    "summarized_content": "HR announces a new soft skills training schedule and requests sign-ups before April 10."
+  },
+  {
+    "subject": "Scheduled System Maintenance Notice",
+    "sender": "it@company.com",
+    "receiver": "all@company.com",
+    "datetime": "2025-04-04 16:00:00",
+    "body": "Dear Team, please be aware that we will be performing routine system maintenance this Saturday from 2 AM to 5 AM. During this time, some services may be unavailable or experience slow performance. We recommend saving all your work beforehand. If you experience any difficulties post-maintenance, kindly reach out to the IT helpdesk. Regards, IT Department",
+    "category": "Work",
+    "priority": 2.5,
+    "summarized_content": "IT department schedules routine maintenance on Saturday, possibly affecting services from 2 AM to 5 AM."
+  },
+  {
+    "subject": "Nhắc nhở thanh toán hóa đơn tháng 4",
+    "sender": "accounting@company.com",
+    "receiver": "khachhang@company.com",
+    "datetime": "2025-04-05 10:00:00",
+    "body": "Kính gửi quý khách, hóa đơn tháng 4 sẽ đến hạn vào ngày 10 tháng 4. Vui lòng đảm bảo thanh toán trước thời hạn để tránh bất kỳ phí trễ hạn nào. Nếu quý khách gặp khó khăn về tài chính hoặc cần thêm thời gian, hãy phản hồi lại email này hoặc liên hệ với chúng tôi để được hỗ trợ. Trân trọng, Phòng Kế toán",
+    "category": "Work",
+    "priority": 3.8,
+    "summarized_content": "Final reminder for April invoice, asking client to settle by April 10 or request assistance."
+  },
+  {
+    "subject": "Re: Reimbursement Request for Work Trip",
+    "sender": "manager@company.com",
+    "receiver": "employee@company.com",
+    "datetime": "2025-04-06 11:45:00",
+    "body": "Dear [Employee], I have reviewed your reimbursement request for the recent Work trip. Please ensure you attach all relevant receipts, including hotel accommodations and transportation costs. Once confirmed, we will process the reimbursement within three Work days. Let me know if you have any additional documents to submit. Regards, [Manager]",
+    "category": "Work",
+    "priority": 5.0,
+    "summarized_content": "Manager requests receipts for Work trip expenses to process reimbursement."
+  },
+  {
+    "subject": "Thông báo nghỉ lễ Giỗ Tổ Hùng Vương",
+    "sender": "hr@company.com",
+    "receiver": "all@company.com",
+    "datetime": "2025-04-07 14:00:00",
+    "body": "Kính gửi toàn thể nhân viên, công ty sẽ nghỉ lễ Giỗ Tổ Hùng Vương vào ngày 10 tháng 4. Trong thời gian này, tất cả hoạt động sẽ tạm dừng. Nếu công việc của bạn không thể trì hoãn, vui lòng báo cáo trực tiếp với quản lý để sắp xếp phương án phù hợp. Chúc mọi người có một kỳ nghỉ an lành. Trân trọng, Phòng Nhân sự",
+    "category": "Work",
+    "priority": 7.0,
+    "summarized_content": "Announcement of holiday on April 10 for Giỗ Tổ Hùng Vương, with instructions for essential work."
+  },
+  {
+    "subject": "Re: Security Vulnerability Found - Immediate Action Required",
+    "sender": "it@company.com",
+    "receiver": "all@company.com",
+    "datetime": "2025-04-08 09:00:00",
+    "body": "Dear Team, we have discovered a critical security vulnerability in one of our internal tools. We strongly advise everyone to update the software to version 2.1.5 immediately. This update contains patches that prevent potential data breaches and unauthorized access. If you have any trouble installing the update, please contact our IT security division right away. Regards, IT Department",
+    "category": "Fraud",
+    "priority": 1.8,
+    "summarized_content": "IT warns of a critical security vulnerability, urging employees to install software update v2.1.5 immediately."
+  },
+  {
+    "subject": "Hỏi đáp về lương tháng này",
+    "sender": "employee@company.com",
+    "receiver": "hr@company.com",
+    "datetime": "2025-04-09 10:15:00",
+    "body": "Chào Phòng Nhân sự, tôi nhận thấy bảng lương tháng này có một số điểm chưa rõ ràng. Cụ thể, khoản trợ cấp đi lại không khớp với thỏa thuận đã ký trước đó. Phiền HR kiểm tra lại và cho tôi biết lý do thay đổi, cũng như cách giải quyết nếu có sai sót. Trân trọng, [Employee]",
+    "category": "Work",
+    "priority": 4.6,
+    "summarized_content": "Employee questions discrepancies in monthly salary, specifically a travel allowance issue."
+  },
+  {
+    "subject": "Request for Additional Project Resources",
+    "sender": "alice.jones@company.com",
+    "receiver": "manager@company.com",
+    "datetime": "2025-04-10 09:20:00",
+    "body": "Dear [Manager], as we progress through the second phase of the XYZ project, it has become apparent that we need additional resources to maintain our momentum. Specifically, we require two more backend developers and one QA specialist. Could you please advise on the feasibility of temporarily allocating these resources? Thank you for your support. Regards, Alice",
+    "category": "Work",
+    "priority": 3.3,
+    "summarized_content": "Alice requests extra backend developers and a QA specialist to maintain momentum in the XYZ project."
+  },
+  {
+    "subject": "Re: Request for Additional Project Resources",
+    "sender": "manager@company.com",
+    "receiver": "alice.jones@company.com",
+    "datetime": "2025-04-10 10:00:00",
+    "body": "Hi Alice, thanks for bringing this to my attention. We do have some bandwidth in the backend team, but QA is currently at full capacity. Let me check with the HR department and see if we can contract a temporary QA specialist. I will update you by the end of the week. Regards, [Manager]",
+    "category": "Work",
+    "priority": 4.0,
+    "summarized_content": "Manager acknowledges resource request and plans to explore contracting a QA specialist."
+  },
+  {
+    "subject": "Re: Chia sẻ thông tin về dự án mới",
+    "sender": "developer@company.com",
+    "receiver": "nguyen.minh@company.com",
+    "datetime": "2025-04-12 09:45:00",
+    "body": "Chào anh Minh, cảm ơn anh đã chia sẻ về dự án mới. Em có một vài đề xuất liên quan đến kiến trúc microservices và cách chúng ta có thể triển khai CI/CD để rút ngắn thời gian phát triển. Nếu có thể, em muốn thảo luận chi tiết hơn trong cuộc họp tuần sau. Trân trọng, Developer",
+    "category": "Work",
+    "priority": 5.8,
+    "summarized_content": "Developer proposes microservices architecture and CI/CD improvements for the new project."
+  },
+  {
+    "subject": "Final Interview Confirmation - Senior QA Position",
+    "sender": "hr@company.com",
+    "receiver": "candidate@company.com",
+    "datetime": "2025-04-15 09:00:00",
+    "body": "Hello [Candidate], I’m pleased to confirm your final interview for the Senior QA Position, scheduled on April 20th at 2 PM. The panel will include members from the development team and a representative from upper management. We appreciate your interest in joining us and look forward to learning more about your experience. Let us know if you have any special requirements. Best regards, HR Team",
+    "category": "Work",
+    "priority": 2.8,
+    "summarized_content": "HR confirms final interview for Senior QA Position on April 20th, mentioning panel details."
+  },
+  {
+    "subject": "Báo cáo kinh doanh tháng 4 và kế hoạch quý 2",
+    "sender": "Work@company.com",
+    "receiver": "manager@company.com",
+    "datetime": "2025-04-16 08:30:00",
+    "body": "Chào quản lý, tôi gửi kèm báo cáo kinh doanh tháng 4, trong đó chúng ta đã đạt 120% mục tiêu doanh số. Dựa trên kết quả này, tôi đề xuất một số kế hoạch cho quý 2, bao gồm mở rộng thị trường sang khu vực mới và tăng ngân sách marketing. Rất mong nhận được phản hồi cũng như ý kiến bổ sung. Trân trọng, Bộ phận Kinh doanh",
+    "category": "Work",
+    "priority": 4.2,
+    "summarized_content": "Work department reports 120% sales target achievement for April and proposes Q2 expansion."
+  },
+  {
+    "subject": "Re: Báo cáo kinh doanh tháng 4 và kế hoạch quý 2",
+    "sender": "manager@company.com",
+    "receiver": "Work@company.com",
+    "datetime": "2025-04-16 09:00:00",
+    "body": "Chào Bộ phận Kinh doanh, tôi đã xem qua báo cáo và rất ấn tượng với kết quả đạt được trong tháng 4. Về kế hoạch quý 2, đề xuất mở rộng thị trường là một ý kiến hay, nhưng chúng ta cần đánh giá kỹ nguồn lực để đảm bảo tiến độ. Tôi sẽ trao đổi với CEO và phản hồi sớm. Trân trọng, Quản lý",
+    "category": "Work",
+    "priority": 5.1,
+    "summarized_content": "Manager reviews April Work report, supports market expansion but emphasizes resource evaluation."
+  },
+  {
+    "subject": "[Kinh Đô] Cập nhật hệ thống SAP ERP sẽ diễn ra cuối tuần này",
+    "sender": "it-department@kinhdo.vn",
+    "receiver": "allstaff@kinhdo.vn",
+    "datetime": "2025-03-31 17:45:00",
+    "body": "Kính gửi toàn thể nhân viên, Phòng CNTT xin thông báo hệ thống SAP ERP sẽ được bảo trì từ 20:00 ngày 5/4/2025 đến 08:00 ngày 6/4/2025. Trong thời gian này, toàn bộ chức năng liên quan sẽ không khả dụng. Đề nghị các bộ phận hoàn tất công việc liên quan trước thời gian bảo trì. Trân trọng, Phòng Công nghệ Thông tin – Kinh Đô",
+    "category": "IT System Update",
+    "priority": 2.5,
+    "summarized_content": "Hệ thống SAP sẽ bảo trì từ 5/4 đến 6/4, yêu cầu hoàn thành công việc liên quan trước đó."
+  },
+  {
+    "subject": "Follow-up on Invoice #INV2034",
+    "sender": "finance@blueleafexport.com",
+    "receiver": "procurement@lotusfoods.vn",
+    "datetime": "2025-04-01 11:12:00",
+    "body": "Dear Procurement Team, This is a kind reminder regarding the pending payment for Invoice #INV2034, issued on March 20, 2025. As the due date was March 30, we would appreciate your prompt attention to this matter. Kindly confirm once the transaction is completed. Warm regards, Linda Tran, Finance Officer – Blue Leaf Export",
+    "category": "Work",
+    "priority": 3.0,
+    "summarized_content": "Reminder for overdue invoice payment originally due on March 30, 2025."
+  },
+  {
+    "subject": "Báo cáo doanh thu quý I/2025",
+    "sender": "kinhdoanh@trungnguyenlegend.com",
+    "receiver": "ceo@trungnguyenlegend.com",
+    "datetime": "2025-04-01 07:50:00",
+    "body": "Thưa Tổng Giám đốc, Bộ phận Kinh doanh xin gửi báo cáo doanh thu quý I năm 2025, kèm theo các biểu đồ phân tích xu hướng và đề xuất điều chỉnh cho quý II. Chi tiết trong file đính kèm. Kính mong nhận được ý kiến chỉ đạo. Trân trọng, Nguyễn Quốc Vũ – Trưởng phòng Kinh doanh",
+    "category": "Work Report",
+    "priority": 4.5,
+    "summarized_content": "Báo cáo doanh thu quý I/2025 kèm phân tích và đề xuất điều chỉnh cho quý II."
+  },
+  {
+    "subject": "Yêu cầu xác nhận tham dự hội thảo tháng 4",
+    "sender": "events@vinadata.vn",
+    "receiver": "nguyen.hoang@vinadata.vn",
+    "datetime": "2025-04-01 14:00:00",
+    "body": "Chào anh Hoàng, Ban tổ chức Hội thảo Chuyển đổi số tháng 4 xin xác nhận lại sự tham dự của anh vào ngày 12/04/2025 tại Trung tâm Hội nghị Quốc gia. Vui lòng phản hồi trước ngày 05/04 để chúng tôi sắp xếp chỗ ngồi và tài liệu. Trân trọng, BTC Hội thảo Vinadata.",
+    "category": "Work",
+    "priority": 3.0,
+    "summarized_content": "Xác nhận tham dự hội thảo chuyển đổi số ngày 12/04, yêu cầu phản hồi trước 05/04."
+  },
+  {
+    "subject": "Security Patch Update Required",
+    "sender": "it@fasttech.com",
+    "receiver": "all@fasttech.com",
+    "datetime": "2025-04-01 15:30:00",
+    "body": "Dear All, We have identified a recent vulnerability in the email system. Please install the latest security patch (v4.22.5) no later than April 3, 2025, to ensure system integrity. Contact IT Support if you encounter issues. Regards, FastTech IT Department.",
+    "category": "Fraud",
+    "priority": 1.5,
+    "summarized_content": "IT department requires urgent security patch installation by April 3 due to vulnerability."
+  },
+  {
+    "subject": "Re: Cập nhật tiến độ dự án phần mềm CRM",
+    "sender": "duan@abcsoft.vn",
+    "receiver": "projectlead@abcsoft.vn",
+    "datetime": "2025-04-02 16:45:00",
+    "body": "Chào anh, Em xin cập nhật tiến độ module quản lý khách hàng: đã hoàn thành 80% chức năng chính, cần thêm 3 ngày để kiểm thử và hoàn thiện giao diện. Dự kiến bàn giao ngày 06/04. Trân trọng, Nhóm dự án CRM",
+    "category": "Work",
+    "priority": 3.2,
+    "summarized_content": "Tiến độ dự án CRM đạt 80%, cần thêm 3 ngày để hoàn thiện và kiểm thử."
+  },
+  {
+    "subject": "Payment Reminder - Invoice #5678",
+    "sender": "billing@vnmarts.com",
+    "receiver": "accounting@abcstore.vn",
+    "datetime": "2025-04-02 08:00:00",
+    "body": "Dear Client, This is a reminder that Invoice #5678 (dated March 20, 2025) remains unpaid. Please process the payment by April 5 to avoid late fees. Contact us if there are issues. Thank you.",
+    "category": "Work",
+    "priority": 3.7,
+    "summarized_content": "Reminder about unpaid invoice #5678 due by April 5 to avoid late fees."
+  },
+  {
+    "subject": "Reminder: Monthly Performance Review - April 7",
+    "sender": "manager@glotech.vn",
+    "receiver": "team@glotech.vn",
+    "datetime": "2025-04-04 10:00:00",
+    "body": "Hi Team, Just a reminder that our performance review for March is scheduled on April 7 at 3:00 PM. Please ensure reports are updated in the tracker before the session.",
+    "category": "Work",
+    "priority": 3.1,
+    "summarized_content": "Reminder of April 7 performance review meeting; team should update reports beforehand."
+  },
+  {
+    "subject": "Final Notice: System Downtime This Weekend",
+    "sender": "it@galaxynet.com",
+    "receiver": "all@galaxynet.com",
+    "datetime": "2025-04-04 17:00:00",
+    "body": "Dear All, This is the final notice regarding scheduled maintenance on April 6 (Sunday) from 1 AM to 4 AM. All network services will be offline. Please plan accordingly. IT Support.",
+    "category": "IT System Update",
+    "priority": 2.4,
+    "summarized_content": "Final notice of system maintenance on April 6 from 1–4 AM; all network services offline."
+  },
+  {
+    "subject": "Thông tin lịch họp giao ban tuần tới",
+    "sender": "assistant@truonghocabc.edu.vn",
+    "receiver": "giaovien@truonghocabc.edu.vn",
+    "datetime": "2025-04-05 08:00:00",
+    "body": "Kính gửi quý thầy cô, Cuộc họp giao ban tuần tới sẽ diễn ra vào lúc 14h ngày 08/04 tại phòng họp tầng 3. Nội dung bao gồm kết quả học tập tháng 3 và kế hoạch giảng dạy tháng 4. Trân trọng.",
+    "category": "Work",
+    "priority": 3.4,
+    "summarized_content": "Lịch họp giao ban ngày 08/04 để thảo luận kết quả tháng 3 và kế hoạch tháng 4."
+  },
+  {
+    "subject": "Xác nhận hợp đồng thuê văn phòng mới",
+    "sender": "leasing@hungvuongland.vn",
+    "receiver": "admin@startupplus.vn",
+    "datetime": "2025-04-06 14:00:00",
+    "body": "Kính gửi Quý khách, Chúng tôi đã nhận được bản hợp đồng thuê tại văn phòng tầng 10, tòa nhà Hùng Vương Plaza. Hợp đồng sẽ có hiệu lực từ ngày 15/04/2025. Vui lòng xác nhận và đặt lịch bàn giao mặt bằng. Trân trọng, Bộ phận Kinh doanh.",
+    "category": "Work",
+    "priority": 2.9,
+    "summarized_content": "Xác nhận hợp đồng thuê văn phòng có hiệu lực từ 15/04 và yêu cầu lịch bàn giao."
+  },
+  {
+    "subject": "Notice of Expired Antivirus License",
+    "sender": "security@cyberprotect.vn",
+    "receiver": "it@megaapps.vn",
+    "datetime": "2025-04-06 09:20:00",
+    "body": "Dear IT Admin, Our records show that your corporate antivirus license expired on April 1. To avoid system risks, please renew immediately. Contact our support for assistance. CyberProtect Security Team.",
+    "category": "Fraud",
+    "priority": 1.7,
+    "summarized_content": "Antivirus license expired April 1, urging immediate renewal to avoid system risks."
+  },
+  {
+    "subject": "Giấy mời tham gia chương trình hội thảo chuyên đề Y tế 2025",
+    "sender": "tochuchoi@healthforum.vn",
+    "receiver": "doctors@benhvienbachmai.vn",
+    "datetime": "2025-04-07 08:45:00",
+    "body": "Kính mời Quý bác sĩ tham dự Hội thảo chuyên đề về đổi mới trong chẩn đoán và điều trị bệnh lý mãn tính, tổ chức ngày 20/04/2025 tại Khách sạn Melia. Vui lòng đăng ký trước ngày 12/04 để nhận tài liệu và chỗ ngồi. Trân trọng.",
+    "category": "Work",
+    "priority": 4.1,
+    "summarized_content": "Giấy mời tham dự hội thảo y tế chuyên đề vào ngày 20/04, cần đăng ký trước 12/04."
+  },
+  {
+    "subject": "Team Lunch - RSVP Required",
+    "sender": "officeadmin@zentech.com",
+    "receiver": "devteam@zentech.com",
+    "datetime": "2025-04-07 13:00:00",
+    "body": "Hey Team, We're organizing a lunch on April 10 to celebrate project milestones. Please RSVP by April 8 so we can confirm the booking. Venue: The Rooftop Bistro, 12:30 PM. Cheers, Office Admin",
+    "category": "Work",
+    "priority": 6.7,
+    "summarized_content": "Invitation to team lunch on April 10; RSVP requested by April 8."
+  },
+  {
+    "subject": "Reminder: Internal Policy Compliance Audit",
+    "sender": "compliance@globaltrust.vn",
+    "receiver": "finance@globaltrust.vn",
+    "datetime": "2025-04-07 11:30:00",
+    "body": "Dear Finance Team, This is a reminder that the quarterly compliance audit will take place on April 12. Please ensure all documents are up to date and ready for review. Regards, Compliance Office",
+    "category": "Work",
+    "priority": 3.3,
+    "summarized_content": "Reminder for finance team to prepare for policy compliance audit on April 12."
+  },
+  {
+    "subject": "Training Completion Deadline Reminder",
+    "sender": "training@globalcorp.vn",
+    "receiver": "staff@globalcorp.vn",
+    "datetime": "2025-04-08 17:20:00",
+    "body": "Dear Team, A reminder that all mandatory compliance training must be completed by April 11. Please log in to the LMS portal to finish any pending modules. Regards, Training Department",
+    "category": "Work",
+    "priority": 3.4,
+    "summarized_content": "Mandatory compliance training due by April 11; staff reminded to complete modules."
+  },
+  {
+    "subject": "Cập nhật hợp đồng bảo trì hệ thống IT 2025",
+    "sender": "admin@vietsystems.vn",
+    "receiver": "it@doanhnghiepx.vn",
+    "datetime": "2025-04-09 10:00:00",
+    "body": "Kính gửi phòng IT, Hợp đồng bảo trì hệ thống năm 2025 đã được cập nhật, hiệu lực từ 01/05/2025. Xin kiểm tra và xác nhận các thông tin kỹ thuật kèm theo. Mọi yêu cầu chỉnh sửa vui lòng gửi trước 15/04. Trân trọng.",
+    "category": "IT System Update",
+    "priority": 3.2,
+    "summarized_content": "Cập nhật hợp đồng bảo trì hệ thống IT, yêu cầu xác nhận trước 15/04."
+  },
+  {
+    "subject": "Quarterly Budget Review Meeting",
+    "sender": "cfo@cityfinance.vn",
+    "receiver": "department-heads@cityfinance.vn",
+    "datetime": "2025-04-09 16:30:00",
+    "body": "Dear Department Heads, The Q1 budget review will be held on April 13 at 10:00 AM in the main conference room. Please prepare your department's spending summaries and forecasts for Q2.",
+    "category": "Work",
+    "priority": 3.6,
+    "summarized_content": "Quarterly budget review meeting scheduled for April 13; departments to prepare reports."
+  },
+  {
+    "subject": "Notice: Spam Email Alert",
+    "sender": "itsecurity@fastelecom.vn",
+    "receiver": "all@fastelecom.vn",
+    "datetime": "2025-04-09 08:45:00",
+    "body": "Dear Colleagues, We've detected a rise in spam email activity. Do not click on links from unknown senders. Report suspicious messages to IT Security. Stay vigilant. Thanks, IT Dept.",
+    "category": "Fraud",
+    "priority": 2.0,
+    "summarized_content": "Alert on increased spam activity; users advised not to click unknown links."
+  },
+  {
+    "subject": "Gợi ý cải tiến quy trình nhập kho",
+    "sender": "khohang@vinamax.vn",
+    "receiver": "quanly@vinamax.vn",
+    "datetime": "2025-04-10 10:30:00",
+    "body": "Chào anh, Nhân viên kho đề xuất thay đổi vị trí mã quét hàng nhập để giảm thời gian xử lý trung bình 15 phút/đơn. Mong được xem xét và phản hồi. Trân trọng.",
+    "category": "Work",
+    "priority": 4.5,
+    "summarized_content": "Đề xuất cải tiến vị trí mã quét để rút ngắn thời gian xử lý đơn nhập kho."
+  },
+  {
+    "subject": "Invoice #20250410 Issued",
+    "sender": "billing@thanhha.vn",
+    "receiver": "accounting@hanoigreen.vn",
+    "datetime": "2025-04-10 15:00:00",
+    "body": "Dear Client, Please find attached Invoice #20250410 for services rendered in March. Due date: April 20. Let us know if there are discrepancies. Thank you for your Work.",
+    "category": "Work",
+    "priority": 4.4,
+    "summarized_content": "Invoice for March services issued with due date April 20."
+  },
+  {
+    "subject": "Re: Monthly Maintenance Checklist",
+    "sender": "maintenance@vietclean.vn",
+    "receiver": "admin@vietclean.vn",
+    "datetime": "2025-04-10 12:00:00",
+    "body": "Chào anh/chị, Checklist bảo trì tháng 4 đã được cập nhật trên hệ thống. Vui lòng kiểm tra và xác nhận các hạng mục hoàn tất trước ngày 14/04. Trân trọng.",
+    "category": "IT System Update",
+    "priority": 3.8,
+    "summarized_content": "Cập nhật checklist bảo trì tháng 4, yêu cầu hoàn tất trước 14/04."
+  },
+  {
+    "subject": "Invitation: Internal Webinar on AI Trends",
+    "sender": "training@alphadata.vn",
+    "receiver": "staff@alphadata.vn",
+    "datetime": "2025-04-10 09:00:00",
+    "body": "Dear Team, You're invited to join our internal webinar titled 'AI Trends 2025' on April 18 at 2 PM via Zoom. Open to all departments. Register before April 15 to secure a spot. Regards, Training",
+    "category": "Work",
+    "priority": 5.0,
+    "summarized_content": "Internal webinar on AI trends set for April 18; registration open until April 15."
+  },
+  {
+    "subject": "Unlock IELTS Success with Our VIP Teachers",
+    "sender": "info@ieltsvip.com",
+    "receiver": "student@example.com",
+    "datetime": "2025-04-15 08:00:00",
+    "body": "\"Never trust a man in a suit\" – that advice that an old lawyer I worked with gave me.\n\nAnd it's advice that has stuck with me to this day, even when it comes to improving IELTS scores for my students.\n\nWhen I started working as a young lawyer, I was shocked that my colleagues hardly ever wore suits. Even many successful clients who ran billion-dollar companies didn't wear suits all the time. The old lawyer I worked with explained that the only lawyers and businessmen who wore suits constantly were the bad ones pretending to be good.\n\nThis pattern held true when I later became an English teacher. I observed that the schools that hired the worst teachers and paid the least money were the ones that insisted that their teachers wear suits. On the other hand, the best schools didn't have such strict dress codes.\n\nIn essence, people use fancy clothing to trick others into thinking they're better than they really are. The same thing happens in IELTS – some test-takers try to use fancy language to impress the examiner, but like the old lawyer, examiners can see through the tricks.\n\nOur VIP teachers don't wear suits, but they have helped more students get Band 7, 8, and 9 than any other course in the world.\n\nIf you want to get the score you need without any tricks, click below to join.",
+    "category": "Commercial",
+    "priority": 5.0,
+    "summarized_content": "Promotional email for an IELTS prep course highlighting VIP teachers with proven Band 7–9 success without using fancy language tricks."
+  },
+  {
+    "subject": "Tặng 3 Tháng Apple TV+ Miễn Phí Khi Mua Thiết Bị Mới",
+    "sender": "offers@apple.com",
+    "receiver": "customer@example.com",
+    "datetime": "2025-04-10 12:00:00",
+    "body": "Thiết bị mới của bạn được tặng kèm 3 tháng xem Apple TV+ miễn phí.\n\nThiết bị mà bạn hoặc một thành viên trong gia đình mới mua được tặng kèm 3 tháng thưởng thức miễn phí Apple TV+, nơi độc quyền trình chiếu các tác phẩm Apple Original.*\n\nNội dung mới công chiếu mỗi tháng.\nThưởng thức toàn bộ phim và chương trình Apple Original theo yêu cầu, trực tuyến hoặc ngoại tuyến.\nChia sẻ với gia đình.**\n\nBạn có thể xem Apple TV+ trên ứng dụng Apple TV. Apple TV+ đã có trên iPhone, iPad, Apple TV, máy Mac, cũng như TV thông minh, thiết bị phát nội dung trực tuyến và máy chơi game. Bạn cũng có thể xem trên trang web tv.apple.com/vn.\n\nĐể biết thêm thông tin, hãy truy cập apple.co/offertvp0121 hoặc trang hỗ trợ của chúng tôi.",
+    "category": "Commercial",
+    "priority": 5.2,
+    "summarized_content": "Quảng cáo tặng 3 tháng xem Apple TV+ miễn phí khi mua thiết bị Apple mới, với khả năng xem trực tuyến hoặc ngoại tuyến trên nhiều thiết bị."
+  },
+  {
+    "subject": "Introducing the Claude iOS App & New Team Plan",
+    "sender": "noreply@anthropic.com",
+    "receiver": "user@example.com",
+    "datetime": "2025-04-20 14:30:00",
+    "body": "Hello,\n\nToday, we’re excited to announce the launch of the Claude iOS app, bringing the power of Claude to your iPhone—and the launch of our Team plan, making it easier to use Claude as part of a team.\n\nClaude iOS app\n\nWith the launch of the Claude iOS app, you can access Claude from anywhere, any time.\n\nThe Claude iOS app features:\n• Seamless syncing with web chats: Pick up where you left off on a new device.\n• Vision capabilities: Use photos from your library, take new photos, or upload files to get real time image analysis.\n• Open access: Users on any plan can download the Claude app free of charge.\n\nWhether you’re brainstorming ideas on the go, need a quick answer on a pressing question, or want to analyze scenes and images from the real world, our new iOS app puts the power of frontier intelligence in your back pocket.\n\nTo download the iOS app, find us on the Apple App Store.\n\nClaude for your team\n\nOur new Team plan is designed for ambitious teams that want to collaborate with Claude on deep work, expert research, and tasks of every size.\n\nThe Team plan includes:\n• Increased usage: More usage per user than the Pro plan, so every teammate can get what they need from Claude\n• Access to the Claude 3 model family: Use Opus, Sonnet, or Haiku. There’s a model for every business need.\n• 200K context window: Room to process long documents, discuss complex topics, and maintain multi-step conversations.\n• Admin tools and billing management: Manage access and billing in a centralized place.\n• Everything in Pro: Priority access during high-traffic periods, early access to new features, greater usage rates, and more.\n\nIn the coming weeks, we'll be releasing collaboration features, which include citations from reliable sources to verify AI generated claims, integrations with data repositories like codebases or CRMs, and iterating with colleagues on AI-generated documents or projects—all while maintaining the highest standards of security and safety.\n\nThe Team plan is $30 per user per month, with a minimum of 5 seats. To get started with the Team plan, sign up on claude.ai.\n\nWarmly,\nThe Anthropic team",
+    "category": "Commercial",
+    "priority": 7.0,
+    "summarized_content": "Announcement of the Claude iOS app launch and a new Team plan offering enhanced usage, vision, and admin features for $30/user/month."
+  },
+  {
+    "subject": "Security Alert: Update Your Password Now",
+    "sender": "security@yourbank.com",
+    "receiver": "user@example.com",
+    "datetime": "2025-04-26 08:30:00",
+    "body": "Dear customer,\n\nWe’ve detected unusual login activity on your account. For your protection, please update your password immediately by clicking the link below. This is an urgent measure to secure your data and prevent unauthorized access.\n\nThank you for your prompt attention to this security alert.\n\nSecurity Team",
+    "category": "Commercial",
+    "priority": 4.1,
+    "summarized_content": "Urgent security alert prompting user to update their password due to unusual login activity."
+  },
+  {
+    "subject": "Reminder: Your Subscription Renewal is Due",
+    "sender": "billing@streamflix.com",
+    "receiver": "user@example.com",
+    "datetime": "2025-04-24 16:45:00",
+    "body": "Hi there,\n\nThis is a friendly reminder that your StreamFlix subscription renews in 3 days. To avoid any interruption in service, please ensure your payment method is up to date. Click here to review your billing details and make any necessary changes.\n\nBest,\nThe StreamFlix Billing Team",
+    "category": "Commercial",
+    "priority": 3.8,
+    "summarized_content": "Notification reminding user that their streaming service subscription will renew in three days."
+  },
+  {
+    "subject": "Flash Sale: 50% Off All Winter Collection",
+    "sender": "offers@fashionhub.com",
+    "receiver": "user@example.com",
+    "datetime": "2025-04-21 11:00:00",
+    "body": "Hello fashionista,\n\nOur biggest flash sale of the season is live! Enjoy 50% off everything in our Winter Collection—coats, sweaters, boots, and more. Act ASAP to secure your favorites before they sell out. Sale ends Sunday at midnight.\n\nShop now and refresh your wardrobe!",
+    "category": "Commercial",
+    "priority": 7.2,
+    "summarized_content": "Promotional flash sale offering 50% off on the entire Winter Collection for a limited time."
+  },
+  {
+    "subject": "Siêu Ưu Đãi Cuối Tuần: Giảm Giá Lên Đến 70%!",
+    "sender": "deal@shoppingvn.com",
+    "receiver": "user@example.com",
+    "datetime": "2025-04-26 09:00:00",
+    "body": "Kính gửi Quý Khách,\n\nChỉ trong cuối tuần này, tận hưởng mức giảm giá chưa từng có lên đến 70% cho hàng trăm sản phẩm thời trang, điện tử và gia dụng. Nhanh tay chọn lựa và đặt hàng ngay hôm nay trước khi ưu đãi kết thúc vào 23:59 Chủ nhật.\n\nĐặc quyền thành viên: Miễn phí vận chuyển và tặng voucher 100.000₫ cho đơn hàng tiếp theo.\n\n👉 Click vào nút dưới đây để săn deal liền tay!\n\nTrân trọng,\nĐội ngũ ShoppingVN",
+    "category": "Commercial",
+    "priority": 6.0,
+    "summarized_content": "Khuyến mãi cuối tuần với mức giảm lên đến 70% kèm miễn phí vận chuyển và voucher 100.000₫."
+  },
+  {
+    "subject": "Mời Bạn Trải Nghiệm Gói Premium Miễn Phí 1 Tháng",
+    "sender": "support@premiumservice.vn",
+    "receiver": "user@example.com",
+    "datetime": "2025-04-25 10:15:00",
+    "body": "Xin chào,\n\nĐăng ký ngay Gói Premium của chúng tôi và nhận 1 tháng sử dụng MIỄN PHÍ tất cả tính năng cao cấp: truy cập không giới hạn nội dung, trải nghiệm không quảng cáo, hỗ trợ ưu tiên 24/7.\n\nChỉ còn 48 giờ để nhận ưu đãi này! Nhập mã PREMIUMFREE khi thanh toán để áp dụng.\n\nNhanh tay đăng ký tại: https://premiumservice.vn/register\n\nCảm ơn bạn,\nĐội ngũ PremiumService",
+    "category": "Commercial",
+    "priority": 6.5,
+    "summarized_content": "Ưu đãi 1 tháng dùng thử Gói Premium miễn phí với đầy đủ tính năng cao cấp và hỗ trợ ưu tiên."
+  },
+  {
+    "subject": "Đăng Ký Ngay Hôm Nay Nhận Ưu Đãi Đặc Biệt 50%",
+    "sender": "promo@ecommerce.vn",
+    "receiver": "user@example.com",
+    "datetime": "2025-04-23 14:00:00",
+    "body": "Chào bạn,\n\nĐăng ký Dịch vụ E-Commerce Pro hôm nay, bạn sẽ được giảm ngay 50% phí thành viên trọn đời. Với E-Commerce Pro, bạn sẽ:\n• Truy cập vô hạn công cụ phân tích thị trường\n• Tích hợp 1-Click mua hàng tự động\n• Hỗ trợ kỹ thuật ưu tiên nhanh chóng\n\nƯu đãi chỉ dành cho 100 khách hàng đầu tiên. Đăng ký ngay để không bỏ lỡ!\n\nTruy cập: https://ecommerce.vn/pro\n\nThân mến,\nĐội ngũ E-Commerce VN",
+    "category": "Commercial",
+    "priority": 6.5,
+    "summarized_content": "Ưu đãi 50% trọn đời khi đăng ký E-Commerce Pro, giới hạn 100 khách hàng đầu tiên."
+  },
+  {
+    "subject": "Happy Birthday!",
+    "sender": "friend@example.com",
+    "receiver": "user@example.com",
+    "datetime": "2025-04-15 08:00:00",
+    "body": "Hey, just wanted to wish you a happy birthday! Hope you have a fantastic day and a great year ahead. Let's catch up soon!",
+    "category": "Others",
+    "priority": 7.0,
+    "summarized_content": "A friend wishes happy birthday and suggests catching up."
+  },
+  {
+    "subject": "Invitation to Join Our Book Club",
+    "sender": "bookclub@community.org",
+    "receiver": "user@example.com",
+    "datetime": "2025-04-10 18:30:00",
+    "body": "We are starting a new book club in the neighborhood and would love for you to join us. Our first meeting is next Saturday at the community center. Let us know if you're interested!",
+    "category": "Others",
+    "priority": 5.5,
+    "summarized_content": "Invitation to join a local community book club."
+  },
+  {
+    "subject": "Family Reunion Photos",
+    "sender": "aunt.lan@example.com",
+    "receiver": "user@example.com",
+    "datetime": "2025-04-12 14:20:00",
+    "body": "Hi everyone, I've attached the photos from our family reunion last weekend. It was wonderful seeing you all. Looking forward to our next gathering!",
+    "category": "Others",
+    "priority": 6.2,
+    "summarized_content": "Sharing family reunion photos and expressing joy about the event."
+  },
+  {
+    "subject": "Congratulations on Your Graduation!",
+    "sender": "uncle.tuan@example.com",
+    "receiver": "user@example.com",
+    "datetime": "2025-04-18 19:00:00",
+    "body": "Dear nephew, congratulations on your graduation! The whole family is proud of your achievement. Wishing you success in your next journey. Let's celebrate soon!",
+    "category": "Others",
+    "priority": 8.0,
+    "summarized_content": "Family member congratulates on graduation and expresses pride."
+  },
+  {
+    "subject": "Lost and Found: Your Wallet",
+    "sender": "security@apartment.com",
+    "receiver": "user@example.com",
+    "datetime": "2025-04-17 08:30:00",
+    "body": "Hello, we found a wallet matching your name at the apartment lobby. Please visit the security desk to claim it. Bring an ID for verification. Thank you.",
+    "category": "Others",
+    "priority": 6.0,
+    "summarized_content": "Notification about a lost wallet found at the apartment lobby."
+  },
+  {
+    "subject": "Neighborhood Power Outage Notification",
+    "sender": "support@utilityco.com",
+    "receiver": "user@example.com",
+    "datetime": "2025-04-19 15:45:00",
+    "body": "Dear resident, there will be a scheduled power outage in your area on April 21 from 1 PM to 4 PM for maintenance. We apologize for any inconvenience and appreciate your understanding.",
+    "category": "Others",
+    "priority": 4.7,
+    "summarized_content": "Scheduled neighborhood power outage notification for April 21."
+  },
+  {
+    "subject": "Exclusive Summer Sale: Up to 60% Off!",
+    "sender": "promo@sunnyshop.com",
+    "receiver": "user@example.com",
+    "datetime": "2025-05-01 09:00:00",
+    "body": "Dear valued customer, our exclusive summer sale is here! Enjoy up to 60% off on selected items, including clothing, accessories, and home decor. Shop now before the best deals are gone. Sale ends May 7.",
+    "category": "Commercial",
+    "priority": 7.5,
+    "summarized_content": "Exclusive summer sale offering up to 60% off on selected items until May 7."
+  },
+  {
+    "subject": "Upgrade to Premium for More Benefits",
+    "sender": "offers@musicplus.com",
+    "receiver": "user@example.com",
+    "datetime": "2025-05-02 10:30:00",
+    "body": "Hi there! Upgrade to MusicPlus Premium and enjoy ad-free listening, unlimited skips, and offline downloads. Sign up today and get your first month free. Don’t miss out!",
+    "category": "Commercial",
+    "priority": 6.8,
+    "summarized_content": "Promotion for MusicPlus Premium with ad-free listening and a free first month."
+  },
+  {
+    "subject": "Limited Time: Free Shipping on All Orders",
+    "sender": "support@shoponline.vn",
+    "receiver": "user@example.com",
+    "datetime": "2025-05-03 14:00:00",
+    "body": "Dear customer, for this weekend only, enjoy free shipping on all orders—no minimum purchase required. Shop your favorite products and save on delivery fees. Offer valid until Sunday midnight.",
+    "category": "Commercial",
+    "priority": 7.0,
+    "summarized_content": "Limited-time offer for free shipping on all orders until Sunday midnight."
+  },
+  {
+    "subject": "Suspicious Login Attempt Detected",
+    "sender": "security@webmail.com",
+    "receiver": "user@example.com",
+    "datetime": "2025-05-04 07:15:00",
+    "body": "Dear user, we detected a suspicious login attempt to your account from an unknown device. If this was not you, please reset your password immediately and contact our support team.",
+    "category": "Fraud",
+    "priority": 1.2,
+    "summarized_content": "Alert about a suspicious login attempt and instructions to reset password."
+  },
+  {
+    "subject": "Unusual Payment Activity on Your Card",
+    "sender": "alerts@banksecure.com",
+    "receiver": "user@example.com",
+    "datetime": "2025-05-04 09:40:00",
+    "body": "Dear customer, we have noticed unusual payment activity on your credit card ending in 1234. Please review your recent transactions and contact us if you do not recognize any charges.",
+    "category": "Fraud",
+    "priority": 1.5,
+    "summarized_content": "Notification of unusual payment activity on credit card, requesting review."
+  },
+  {
+    "subject": "Phishing Alert: Fake Invoice Emails Circulating",
+    "sender": "itsecurity@company.com",
+    "receiver": "all@company.com",
+    "datetime": "2025-05-04 11:00:00",
+    "body": "Attention: We have detected a phishing campaign using fake invoice emails targeting our staff. Do not click on any suspicious links or download attachments from unknown senders. Report any such emails to IT Security.",
+    "category": "Fraud",
+    "priority": 2.0,
+    "summarized_content": "Warning about phishing emails with fake invoices targeting staff."
+  },
+  {
+    "subject": "Thank You for Your Support",
+    "sender": "neighbor.linh@example.com",
+    "receiver": "user@example.com",
+    "datetime": "2025-05-05 17:00:00",
+    "body": "Hi, I just wanted to thank you for helping me water the plants while I was away last week. I really appreciate your kindness and support. Let me know if you ever need a hand with anything!",
+    "category": "Others",
+    "priority": 6.3,
+    "summarized_content": "Neighbor expresses gratitude for help with watering plants."
+  },
+  {
+    "subject": "Invitation to Community Clean-Up Day",
+    "sender": "community@greenneighborhood.org",
+    "receiver": "user@example.com",
+    "datetime": "2025-05-06 08:30:00",
+    "body": "Dear resident, we are organizing a community clean-up day this Saturday at 8 AM. Please join us at the park entrance to help keep our neighborhood beautiful. All supplies will be provided.",
+    "category": "Others",
+    "priority": 5.9,
+    "summarized_content": "Invitation to participate in a neighborhood clean-up event."
+  },
+  {
+    "subject": "Pet Adoption Event This Weekend",
+    "sender": "info@animalrescue.vn",
+    "receiver": "user@example.com",
+    "datetime": "2025-05-07 14:00:00",
+    "body": "Hello! We are hosting a pet adoption event this weekend at the city square. If you or anyone you know is interested in giving a loving home to a pet, please stop by. All are welcome!",
+    "category": "Others",
+    "priority": 6.1,
+    "summarized_content": "Announcement of a pet adoption event at the city square this weekend."
+  },
+  {
+    "subject": "Invitation to Birthday Party",
+    "sender": "minh.tran@example.com",
+    "receiver": "user@example.com",
+    "datetime": "2025-05-10 18:00:00",
+    "body": "Hi! I'm having a birthday party this Saturday at my house and would love for you to come. There will be food, games, and music. Let me know if you can make it!",
+    "category": "Others",
+    "priority": 7.2,
+    "summarized_content": "Invitation to a friend's birthday party with food, games, and music."
+  },
+  {
+    "subject": "Neighborhood Lost Pet Alert",
+    "sender": "communitywatch@neighborhood.org",
+    "receiver": "user@example.com",
+    "datetime": "2025-05-09 09:30:00",
+    "body": "Dear neighbors, a small brown dog was last seen near the park yesterday evening. If you have any information or have seen the dog, please contact us. Thank you for helping keep our community safe.",
+    "category": "Others",
+    "priority": 5.8,
+    "summarized_content": "Alert about a lost dog in the neighborhood, requesting community assistance."
+  },
+  {
+    "subject": "Thank You for Attending Our Workshop",
+    "sender": "events@localcenter.org",
+    "receiver": "user@example.com",
+    "datetime": "2025-05-08 16:00:00",
+    "body": "Thank you for joining our gardening workshop last weekend. We hope you found it helpful and enjoyable. Attached are the workshop materials and some photos from the event.",
+    "category": "Others",
+    "priority": 6.4,
+    "summarized_content": "Thank you note for attending a gardening workshop, with materials and photos attached."
+  }
+]

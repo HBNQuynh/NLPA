@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "ai-based-email-system-39a39",
+  "private_key_id": "1726ffef13705181a8249c3f4896a8b2e9b12a4d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDBotkf9WTYqrHN\n4XvhlqIH/Yuyr/VT3WYW8iOH7uwPfFGbVbnwzDc+z9sx5KjMmLO5BcnimZQVoKBN\ntb01LS3ui1QfrPynjgjemOnJefiSElwSixMZxV6iOmV37fyVzg4KsJOtx+QRmNyy\nXQg5uzk5xCE8fzz+90MUpRn0VOoTX+QzLVdPFw/rceacH8NCBmmCKo7Kgu107CAD\nYrkkQqabXNjGbuBsfrxJpxAloMOPCVQHEqw6IQMsHwO6UsJQTZzFwdoiUIDgHYDA\nK8lzif9c71FO9YbUg7Bdir1tjgcSI/QhfzYs6BZHUsYBHYEEFENuk9PDd6zNbrcJ\n21nsPDcZAgMBAAECggEAAfDw/koGfcmQSMEW7dcFvtDC4sKy0elpSZeZ1ZYGlc0o\nQEdmusxBTYbl6qUhMBPj0VoGgRgLDQB0OvM0d2EBkd+hs0OXsNJSsnCT/2oSnNxE\nQgdU5LA+15+APuiK3LGZIHBOurJDTg3bQIqAN5vx4etebe3UnbW63W0eSn3DbvhF\no4urZcYaUtmoLn3xgyfKg8SoFqFzFHjG7vMHSNHOcjVQC5ySSVudrVJZIkO6GCk8\nKiAMQCAUXh9kmClyzxLV/h1CQwPbN0vBZqcxPl3iJ6q3hhJwk3yf3y3Vj9ZPSj4U\nmAn+6D0qXT1+fTQM2BnU/ZhExTYV28igYowy9MQlAQKBgQD2vm0h6BSTPfCg2OVD\niGuQ/30t5iYon+GQQ1nglXcUwZGMeOOCJ7AWBCu4/m8APN7cckNrwDVoonrQBAPn\nj26rmk1ztic7/9EmhGC/jKYL3S0+vi4cSb4QIhe0relgH4kf3ifQwy/5Dtg6ax69\nSyRVIbN/CDT1jMl/JELHWqHfuQKBgQDI5miPPR9Ie6Mo3thOM3JzX4rBac19jpIA\ndy9UhpO/C1+n5m++JnPY80F+qJzG3xc/VNMAgZWwR36EJ0owqaFaAUZGXU75nUoh\n9vvJAI7N4NSzkr3P4TIy0TCBR0qX7QFe7o6/VKZYShFx/KcTJvHX7IgguJbaXz0d\nuPLGZ98CYQKBgBZaP+avcJW6Kb9YhsRsalozWvK6g8BwY22/PDglMil2M6pHFU0o\nLUKBVDipDAM4gHP2AfeT7QKynW+UvYnPq5XuH5AY80rzLM5RdbZElpJCkiO59NFp\nOMebXwxmKNslYDW72V2HISRt3NbF933sfbkcmXcrliicfXCAJ3CJ3Fo5AoGBAII+\nnlr+zWE4hrbggmtwfyq9Lj/mUAque4lBu7WY6gBZZ1J62sb0NvbX/gYXWky0JWYx\nn/ocCOeX8jXLIxYZYznuyZiktaauinkqnmHZsrtWn48r+1LiNKEtbbzic0G7rb/V\n+UWho5ZprpWvrsGD5haOilJsWaCJTh4O4ZYvkS0BAoGBAKJ1qATXGwSMD6HQg+tw\n0R0fNJhY+yioTykrIf95cX2/L8MUNn2khfcvUHkUmsqiuQwvo66Pk0fc98AH5b+l\nMH1l0zaYabGrJAZ9xmOWAWha/qXiWQpukLgJmHvHCC69RtGYbCWhMXbTOwgx+YlR\nZBBhQUw17C5MfUA7yUpNIEuu\n-----END PRIVATE KEY-----\n",
+  "client_email": "python-firestore-access@ai-based-email-system-39a39.iam.gserviceaccount.com",
+  "client_id": "117767316297111128404",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/python-firestore-access%40ai-based-email-system-39a39.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
