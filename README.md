@@ -14,7 +14,7 @@ For this application to work well, we recommend using python 3.10.16 or higher
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/haiduonghuynhle/NLPA-FinalProject.git
+   git clone https://github.com/HBNQuynh/NLPA.git
    cd NLPA-FinalProject
 2. **Install nescessary libraries**
     ```bash
