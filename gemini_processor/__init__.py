@@ -70,10 +70,7 @@ def _observe_latency(start_time, task):
 
 class GeminiProcessor:
     api_keys: List[str] = [
-        "AIzaSyA956rBDZjZbiPsSD-PaNLnRMn1oNVFUrw",  # Thuan
-        "AIzaSyCyRe9IjRYYuRA7hSR6E-gNxdQGUlbITiM",  # Kien
-        "AIzaSyCZvNWUx_OkMcL-DxnwFMw4R_RytBq1lyc",  # Quynh
-        "AIzaSyBaSY69jnekkQGZGjAxg8xqs-CGo8Mx64s"   # Quynh2
+        # Insert your API key here
     ]
     RATE_LIMIT = 15
     
